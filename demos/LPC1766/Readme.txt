@@ -7,3 +7,7 @@ ChibiOS : 2.5.2
 -Mengganti konfigurasi clock pada file mcuconf.h agar sesuai dengan board larantuka_3.1. Pada board larantuka_3.1 tidak terdapat MAINOSC (EXTAL), melainkan hanya IRCOSC (Internal RC Oscillator) saja.
 -Blink berhasil dicoba untuk P2.0
 -Tambah deklarasi UART2 pin P2.8 da P2.9 pada file board.c
+
+7-Feb-2019
+-Menambahkan thread untuk PWM-Servo (MCPWM)
+-Menambahkan thread untuk SPI1-Thermocouple

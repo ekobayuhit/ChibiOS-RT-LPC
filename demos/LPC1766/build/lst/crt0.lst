@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccXH2jYc.s 			page 1
+ARM GAS  /tmp/cc7KXC3C.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
   55 0002 00BF     		.section	.text._default_exit,"ax",%progbits
   56              		.align	1
   57              		.p2align 2,,3
-ARM GAS  /tmp/ccXH2jYc.s 			page 2
+ARM GAS  /tmp/cc7KXC3C.s 			page 2
 
 
   58              		.weak	_default_exit
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  112              		.syntax unified
  113              	@ 289 "../../os/ports/GCC/ARMCMx/crt0.c" 1
  114 000a 83F31488 		msr     CONTROL, r3
-ARM GAS  /tmp/ccXH2jYc.s 			page 3
+ARM GAS  /tmp/cc7KXC3C.s 			page 3
 
 
  115              	@ 0 "" 2
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  169              	.LBB4:
  170              		.loc 1 312 0
  171 0054 204B     		ldr	r3, .L32+20
-ARM GAS  /tmp/ccXH2jYc.s 			page 4
+ARM GAS  /tmp/cc7KXC3C.s 			page 4
 
 
  172 0056 214A     		ldr	r2, .L32+24
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  226 009c AC42     		cmp	r4, r5
  227 009e 04D2     		bcs	.L18
  228              	.LVL18:
-ARM GAS  /tmp/ccXH2jYc.s 			page 5
+ARM GAS  /tmp/cc7KXC3C.s 			page 5
 
 
  229              	.L22:
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  283 00ec 00000000 		.word	__init_array_end
  284 00f0 00000000 		.word	__init_array_start
  285 00f4 00000000 		.word	__fini_array_end
-ARM GAS  /tmp/ccXH2jYc.s 			page 6
+ARM GAS  /tmp/cc7KXC3C.s 			page 6
 
 
  286 00f8 00000000 		.word	__fini_array_start
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  340 0060 07       		.byte	0x7
  341 0061 C4010000 		.4byte	.LASF7
  342 0065 02       		.uleb128 0x2
-ARM GAS  /tmp/ccXH2jYc.s 			page 7
+ARM GAS  /tmp/cc7KXC3C.s 			page 7
 
 
  343 0066 08       		.byte	0x8
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  397 00d5 01       		.byte	0x1
  398 00d6 93       		.byte	0x93
  399 00d7 8C000000 		.4byte	0x8c
-ARM GAS  /tmp/ccXH2jYc.s 			page 8
+ARM GAS  /tmp/cc7KXC3C.s 			page 8
 
 
  400 00db 07       		.uleb128 0x7
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  454 0151 00000000 		.4byte	.LFB3
  455 0155 FC000000 		.4byte	.LFE3-.LFB3
  456 0159 01       		.uleb128 0x1
-ARM GAS  /tmp/ccXH2jYc.s 			page 9
+ARM GAS  /tmp/cc7KXC3C.s 			page 9
 
 
  457 015a 9C       		.byte	0x9c
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  511 01e0 40000000 		.4byte	.LLST2
  512 01e4 09       		.uleb128 0x9
  513 01e5 647000   		.ascii	"dp\000"
-ARM GAS  /tmp/ccXH2jYc.s 			page 10
+ARM GAS  /tmp/cc7KXC3C.s 			page 10
 
 
  514 01e8 01       		.byte	0x1
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  568 0272 04       		.byte	0x4
  569 0273 8C000000 		.4byte	0x8c
  570 0277 0F       		.uleb128 0xf
-ARM GAS  /tmp/ccXH2jYc.s 			page 11
+ARM GAS  /tmp/cc7KXC3C.s 			page 11
 
 
  571 0278 FA000000 		.4byte	.LASF32
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  625 0018 3E       		.uleb128 0x3e
  626 0019 0B       		.uleb128 0xb
  627 001a 03       		.uleb128 0x3
-ARM GAS  /tmp/ccXH2jYc.s 			page 12
+ARM GAS  /tmp/cc7KXC3C.s 			page 12
 
 
  628 001b 0E       		.uleb128 0xe
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  682 0051 3F       		.uleb128 0x3f
  683 0052 19       		.uleb128 0x19
  684 0053 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccXH2jYc.s 			page 13
+ARM GAS  /tmp/cc7KXC3C.s 			page 13
 
 
  685 0054 19       		.uleb128 0x19
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  739 008b 00       		.byte	0
  740 008c 00       		.byte	0
  741 008d 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccXH2jYc.s 			page 14
+ARM GAS  /tmp/cc7KXC3C.s 			page 14
 
 
  742 008e 0B       		.uleb128 0xb
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  796 00c6 27       		.uleb128 0x27
  797 00c7 19       		.uleb128 0x19
  798 00c8 11       		.uleb128 0x11
-ARM GAS  /tmp/ccXH2jYc.s 			page 15
+ARM GAS  /tmp/cc7KXC3C.s 			page 15
 
 
  799 00c9 01       		.uleb128 0x1
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  853 0101 00       		.byte	0
  854 0102 00       		.byte	0
  855 0103 13       		.uleb128 0x13
-ARM GAS  /tmp/ccXH2jYc.s 			page 16
+ARM GAS  /tmp/cc7KXC3C.s 			page 16
 
 
  856 0104 2E       		.uleb128 0x2e
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  910 0056 7C       		.sleb128 -4
  911 0057 9F       		.byte	0x9f
  912 0058 72000000 		.4byte	.LVL12
-ARM GAS  /tmp/ccXH2jYc.s 			page 17
+ARM GAS  /tmp/cc7KXC3C.s 			page 17
 
 
  913 005c 76000000 		.4byte	.LVL13
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  967 0004 0200     		.2byte	0x2
  968 0006 00000000 		.4byte	.Ldebug_info0
  969 000a 04       		.byte	0x4
-ARM GAS  /tmp/ccXH2jYc.s 			page 18
+ARM GAS  /tmp/cc7KXC3C.s 			page 18
 
 
  970 000b 00       		.byte	0
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  1012 0048 6E746572 		.ascii	"nterwork -mthumb -ggdb -O2 -fomit-frame-pointer -ff"
  1012      776F726B 
  1012      202D6D74 
-ARM GAS  /tmp/ccXH2jYc.s 			page 19
+ARM GAS  /tmp/cc7KXC3C.s 			page 19
 
 
  1012      68756D62 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  1033 013e 2F686F6D 		.ascii	"/home/ekobayu/Arok-Gandring-Lokajaya/LPC/ChibiOS-RT"
  1033      652F656B 
  1033      6F626179 
-ARM GAS  /tmp/ccXH2jYc.s 			page 20
+ARM GAS  /tmp/cc7KXC3C.s 			page 20
 
 
  1033      752F4172 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  1054 020a 75696E74 		.ascii	"uint8_t\000"
  1054      385F7400 
  1055              	.LASF19:
-ARM GAS  /tmp/ccXH2jYc.s 			page 21
+ARM GAS  /tmp/cc7KXC3C.s 			page 21
 
 
  1056 0212 5F746578 		.ascii	"_textdata\000"
@@ -1258,24 +1258,24 @@ ARM GAS  /tmp/ccXH2jYc.s 			page 1
  1080      7461636B 
  1080      5F656E64 
  1080      5F5F00
-ARM GAS  /tmp/ccXH2jYc.s 			page 22
+ARM GAS  /tmp/cc7KXC3C.s 			page 22
 
 
  1081              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccXH2jYc.s 			page 23
+ARM GAS  /tmp/cc7KXC3C.s 			page 23
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 crt0.c
-     /tmp/ccXH2jYc.s:16     .text.__early_init:0000000000000000 $t
-     /tmp/ccXH2jYc.s:24     .text.__early_init:0000000000000000 __early_init
-     /tmp/ccXH2jYc.s:35     .text.__late_init:0000000000000000 $t
-     /tmp/ccXH2jYc.s:43     .text.__late_init:0000000000000000 __late_init
-     /tmp/ccXH2jYc.s:56     .text._default_exit:0000000000000000 $t
-     /tmp/ccXH2jYc.s:64     .text._default_exit:0000000000000000 _default_exit
-     /tmp/ccXH2jYc.s:77     .text.ResetHandler:0000000000000000 $t
-     /tmp/ccXH2jYc.s:85     .text.ResetHandler:0000000000000000 ResetHandler
-     /tmp/ccXH2jYc.s:273    .text.ResetHandler:00000000000000c4 $d
+     /tmp/cc7KXC3C.s:16     .text.__early_init:0000000000000000 $t
+     /tmp/cc7KXC3C.s:24     .text.__early_init:0000000000000000 __early_init
+     /tmp/cc7KXC3C.s:35     .text.__late_init:0000000000000000 $t
+     /tmp/cc7KXC3C.s:43     .text.__late_init:0000000000000000 __late_init
+     /tmp/cc7KXC3C.s:56     .text._default_exit:0000000000000000 $t
+     /tmp/cc7KXC3C.s:64     .text._default_exit:0000000000000000 _default_exit
+     /tmp/cc7KXC3C.s:77     .text.ResetHandler:0000000000000000 $t
+     /tmp/cc7KXC3C.s:85     .text.ResetHandler:0000000000000000 ResetHandler
+     /tmp/cc7KXC3C.s:273    .text.ResetHandler:00000000000000c4 $d
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

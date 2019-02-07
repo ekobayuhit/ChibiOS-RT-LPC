@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccoabUh0.s 			page 1
+ARM GAS  /tmp/ccccnVko.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
   55              		.loc 1 114 0
   56              		.cfi_startproc
   57              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /tmp/ccoabUh0.s 			page 2
+ARM GAS  /tmp/ccccnVko.s 			page 2
 
 
   58              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  112              	.L18:
  113              		.loc 2 38 0
  114 0030 1B68     		ldr	r3, [r3]
-ARM GAS  /tmp/ccoabUh0.s 			page 3
+ARM GAS  /tmp/ccccnVko.s 			page 3
 
 
  115              	.LVL7:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  169              	.LBE39:
  170              		.loc 1 160 0
  171 0058 FFF7FEFF 		bl	chSchReadyI
-ARM GAS  /tmp/ccoabUh0.s 			page 4
+ARM GAS  /tmp/ccccnVko.s 			page 4
 
 
  172              	.LVL13:
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  226              		.loc 2 68 0
  227 0086 92E80900 		ldm	r2, {r0, r3}
  228 008a 1860     		str	r0, [r3]
-ARM GAS  /tmp/ccoabUh0.s 			page 5
+ARM GAS  /tmp/ccccnVko.s 			page 5
 
 
  229              		.loc 2 69 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  283              		.loc 1 177 0
  284 00ba E36B     		ldr	r3, [r4, #60]
  285              		.loc 1 176 0
-ARM GAS  /tmp/ccoabUh0.s 			page 6
+ARM GAS  /tmp/ccccnVko.s 			page 6
 
 
  286 00bc 8460     		str	r4, [r0, #8]
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  340              		.thumb
  341              		.syntax unified
  342 0012 08BD     		pop	{r3, pc}
-ARM GAS  /tmp/ccoabUh0.s 			page 7
+ARM GAS  /tmp/ccccnVko.s 			page 7
 
 
  343              	.LBE50:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  397              		.syntax unified
  398              	.LBE63:
  399              		.loc 1 208 0
-ARM GAS  /tmp/ccoabUh0.s 			page 8
+ARM GAS  /tmp/ccccnVko.s 			page 8
 
 
  400 0014 7047     		bx	lr
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  454              	chMtxTryLockS:
  455              	.LFB11:
  456              		.loc 1 227 0
-ARM GAS  /tmp/ccoabUh0.s 			page 9
+ARM GAS  /tmp/ccccnVko.s 			page 9
 
 
  457              		.cfi_startproc
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  511              		.type	chMtxUnlock, %function
  512              	chMtxUnlock:
  513              	.LFB12:
-ARM GAS  /tmp/ccoabUh0.s 			page 10
+ARM GAS  /tmp/ccccnVko.s 			page 10
 
 
  514              		.loc 1 250 0
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  568              	.LVL47:
  569              	.L47:
  570              		.loc 1 279 0
-ARM GAS  /tmp/ccoabUh0.s 			page 11
+ARM GAS  /tmp/ccccnVko.s 			page 11
 
 
  571 002a DB68     		ldr	r3, [r3, #12]
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  625              		.thumb
  626              		.syntax unified
  627              	.LBE78:
-ARM GAS  /tmp/ccoabUh0.s 			page 12
+ARM GAS  /tmp/ccccnVko.s 			page 12
 
 
  628              		.loc 1 296 0
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  682              	.LVL58:
  683              		.loc 1 315 0
  684 0006 C46B     		ldr	r4, [r0, #60]
-ARM GAS  /tmp/ccoabUh0.s 			page 13
+ARM GAS  /tmp/ccccnVko.s 			page 13
 
 
  685              	.LVL59:
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  739 0032 2846     		mov	r0, r5
  740              	.LVL65:
  741              	.LBB86:
-ARM GAS  /tmp/ccoabUh0.s 			page 14
+ARM GAS  /tmp/ccccnVko.s 			page 14
 
 
  742              	.LBB84:
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  796 0000 134A     		ldr	r2, .L81
  797              		.loc 1 367 0
  798 0002 70B5     		push	{r4, r5, r6, lr}
-ARM GAS  /tmp/ccoabUh0.s 			page 15
+ARM GAS  /tmp/ccccnVko.s 			page 15
 
 
  799              		.cfi_def_cfa_offset 16
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  853              		.loc 2 55 0
  854 0022 1960     		str	r1, [r3]
  855 0024 4B60     		str	r3, [r1, #4]
-ARM GAS  /tmp/ccoabUh0.s 			page 16
+ARM GAS  /tmp/ccccnVko.s 			page 16
 
 
  856              	.LVL75:
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  910              	.LFE14:
  911              		.size	chMtxUnlockAll, .-chMtxUnlockAll
  912              		.text
-ARM GAS  /tmp/ccoabUh0.s 			page 17
+ARM GAS  /tmp/ccccnVko.s 			page 17
 
 
  913              	.Letext0:
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  967 0056 E1030000 		.4byte	.LASF4
  968 005a 03       		.uleb128 0x3
  969 005b 02       		.byte	0x2
-ARM GAS  /tmp/ccoabUh0.s 			page 18
+ARM GAS  /tmp/ccccnVko.s 			page 18
 
 
  970 005c 05       		.byte	0x5
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1024 00cb 7A040000 		.4byte	.LASF18
  1025 00cf 04       		.byte	0x4
  1026 00d0 30       		.byte	0x30
-ARM GAS  /tmp/ccoabUh0.s 			page 19
+ARM GAS  /tmp/ccccnVko.s 			page 19
 
 
  1027 00d1 85000000 		.4byte	0x85
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1081 0146 CA000000 		.4byte	0xca
  1082 014a 05       		.uleb128 0x5
  1083 014b 3F010000 		.4byte	0x13f
-ARM GAS  /tmp/ccoabUh0.s 			page 20
+ARM GAS  /tmp/ccccnVko.s 			page 20
 
 
  1084 014f 04       		.uleb128 0x4
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1138 01bb 03040000 		.4byte	.LASF38
  1139 01bf 07       		.byte	0x7
  1140 01c0 72       		.byte	0x72
-ARM GAS  /tmp/ccoabUh0.s 			page 21
+ARM GAS  /tmp/ccccnVko.s 			page 21
 
 
  1141 01c1 FD000000 		.4byte	0xfd
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1195 022d 34010000 		.4byte	0x134
  1196 0231 38       		.byte	0x38
  1197 0232 07       		.uleb128 0x7
-ARM GAS  /tmp/ccoabUh0.s 			page 22
+ARM GAS  /tmp/ccccnVko.s 			page 22
 
 
  1198 0233 EF030000 		.4byte	.LASF47
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1252 029c 00       		.byte	0
  1253 029d 00       		.byte	0
  1254 029e 04       		.uleb128 0x4
-ARM GAS  /tmp/ccoabUh0.s 			page 23
+ARM GAS  /tmp/ccccnVko.s 			page 23
 
 
  1255 029f 4D020000 		.4byte	.LASF51
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1309 030e 08       		.byte	0x8
  1310 030f 1D01     		.2byte	0x11d
  1311 0311 A9020000 		.4byte	0x2a9
-ARM GAS  /tmp/ccoabUh0.s 			page 24
+ARM GAS  /tmp/ccccnVko.s 			page 24
 
 
  1312 0315 14       		.byte	0x14
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1366 0382 97040000 		.4byte	.LASF58
  1367 0386 09       		.byte	0x9
  1368 0387 56       		.byte	0x56
-ARM GAS  /tmp/ccoabUh0.s 			page 25
+ARM GAS  /tmp/ccccnVko.s 			page 25
 
 
  1369 0388 8C030000 		.4byte	0x38c
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1423 03f4 09       		.byte	0x9
  1424 03f5 72       		.byte	0x72
  1425 03f6 D5030000 		.4byte	0x3d5
-ARM GAS  /tmp/ccoabUh0.s 			page 26
+ARM GAS  /tmp/ccccnVko.s 			page 26
 
 
  1426 03fa 04       		.byte	0x4
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1480 0463 9E030000 		.4byte	.LASF70
  1481 0467 0A       		.byte	0xa
  1482 0468 5F       		.byte	0x5f
-ARM GAS  /tmp/ccoabUh0.s 			page 27
+ARM GAS  /tmp/ccccnVko.s 			page 27
 
 
  1483 0469 78020000 		.4byte	0x278
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1537 04d5 07       		.byte	0x7
  1538 04d6 8F       		.byte	0x8f
  1539 04d7 08050000 		.4byte	0x508
-ARM GAS  /tmp/ccoabUh0.s 			page 28
+ARM GAS  /tmp/ccccnVko.s 			page 28
 
 
  1540 04db 12       		.uleb128 0x12
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1594 0547 A9000000 		.4byte	0xa9
  1595 054b 05       		.byte	0x5
  1596 054c 07       		.uleb128 0x7
-ARM GAS  /tmp/ccoabUh0.s 			page 29
+ARM GAS  /tmp/ccccnVko.s 			page 29
 
 
  1597 054d 8E050000 		.4byte	.LASF87
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1651 05b9 E3000000 		.4byte	.LASF96
  1652 05bd 0C       		.byte	0xc
  1653 05be 32       		.byte	0x32
-ARM GAS  /tmp/ccoabUh0.s 			page 30
+ARM GAS  /tmp/ccccnVko.s 			page 30
 
 
  1654 05bf A9000000 		.4byte	0xa9
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1708 0631 3C060000 		.4byte	0x63c
  1709 0635 15       		.uleb128 0x15
  1710 0636 5E030000 		.4byte	0x35e
-ARM GAS  /tmp/ccoabUh0.s 			page 31
+ARM GAS  /tmp/ccccnVko.s 			page 31
 
 
  1711 063a 17       		.byte	0x17
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1765 06b9 E8000000 		.4byte	.Ldebug_ranges0+0xe8
  1766 06bd 01       		.byte	0x1
  1767 06be 7801     		.2byte	0x178
-ARM GAS  /tmp/ccoabUh0.s 			page 32
+ARM GAS  /tmp/ccccnVko.s 			page 32
 
 
  1768 06c0 DD060000 		.4byte	0x6dd
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1822 0748 19       		.uleb128 0x19
  1823 0749 6D7000   		.ascii	"mp\000"
  1824 074c 01       		.byte	0x1
-ARM GAS  /tmp/ccoabUh0.s 			page 33
+ARM GAS  /tmp/ccccnVko.s 			page 33
 
 
  1825 074d 3801     		.2byte	0x138
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1879 07ce 9C       		.byte	0x9c
  1880 07cf 9A080000 		.4byte	0x89a
  1881 07d3 27       		.uleb128 0x27
-ARM GAS  /tmp/ccoabUh0.s 			page 34
+ARM GAS  /tmp/ccccnVko.s 			page 34
 
 
  1882 07d4 63747000 		.ascii	"ctp\000"
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1936 085f 1E       		.uleb128 0x1e
  1937 0860 60000000 		.4byte	.Ldebug_ranges0+0x60
  1938 0864 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccoabUh0.s 			page 35
+ARM GAS  /tmp/ccccnVko.s 			page 35
 
 
  1939 0865 640B0000 		.4byte	0xb64
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  1993 08ce 2B       		.uleb128 0x2b
  1994 08cf 6D7000   		.ascii	"mp\000"
  1995 08d2 01       		.byte	0x1
-ARM GAS  /tmp/ccoabUh0.s 			page 36
+ARM GAS  /tmp/ccccnVko.s 			page 36
 
 
  1996 08d3 C7       		.byte	0xc7
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2050 094f C8000000 		.4byte	.LFE9-.LFB9
  2051 0953 01       		.uleb128 0x1
  2052 0954 9C       		.byte	0x9c
-ARM GAS  /tmp/ccoabUh0.s 			page 37
+ARM GAS  /tmp/ccccnVko.s 			page 37
 
 
  2053 0955 A10A0000 		.4byte	0xaa1
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2107 09e0 2E0B0000 		.4byte	0xb2e
  2108 09e4 5E000000 		.4byte	.LBB40
  2109 09e8 0A000000 		.4byte	.LBE40-.LBB40
-ARM GAS  /tmp/ccoabUh0.s 			page 38
+ARM GAS  /tmp/ccccnVko.s 			page 38
 
 
  2110 09ec 01       		.byte	0x1
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2164 0a79 960B0000 		.4byte	0xb96
  2165 0a7d 1B030000 		.4byte	.LLST12
  2166 0a81 00       		.byte	0
-ARM GAS  /tmp/ccoabUh0.s 			page 39
+ARM GAS  /tmp/ccccnVko.s 			page 39
 
 
  2167 0a82 00       		.byte	0
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2221 0af9 00       		.byte	0
  2222 0afa 24       		.uleb128 0x24
  2223 0afb 0C000000 		.4byte	.LVL32
-ARM GAS  /tmp/ccoabUh0.s 			page 40
+ARM GAS  /tmp/ccccnVko.s 			page 40
 
 
  2224 0aff 44090000 		.4byte	0x944
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2278 0b68 02       		.byte	0x2
  2279 0b69 35       		.byte	0x35
  2280 0b6a 78020000 		.4byte	0x278
-ARM GAS  /tmp/ccoabUh0.s 			page 41
+ARM GAS  /tmp/ccccnVko.s 			page 41
 
 
  2281 0b6e 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2335 0be7 37       		.uleb128 0x37
  2336 0be8 13020000 		.4byte	.LASF117
  2337 0bec 13020000 		.4byte	.LASF117
-ARM GAS  /tmp/ccoabUh0.s 			page 42
+ARM GAS  /tmp/ccccnVko.s 			page 42
 
 
  2338 0bf0 0A       		.byte	0xa
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2392 002c 03       		.uleb128 0x3
  2393 002d 0E       		.uleb128 0xe
  2394 002e 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccoabUh0.s 			page 43
+ARM GAS  /tmp/ccccnVko.s 			page 43
 
 
  2395 002f 0B       		.uleb128 0xb
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2449 0065 13       		.uleb128 0x13
  2450 0066 38       		.uleb128 0x38
  2451 0067 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccoabUh0.s 			page 44
+ARM GAS  /tmp/ccccnVko.s 			page 44
 
 
  2452 0068 00       		.byte	0
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2506 009e 05       		.uleb128 0x5
  2507 009f 49       		.uleb128 0x49
  2508 00a0 13       		.uleb128 0x13
-ARM GAS  /tmp/ccoabUh0.s 			page 45
+ARM GAS  /tmp/ccccnVko.s 			page 45
 
 
  2509 00a1 38       		.uleb128 0x38
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2563 00d7 0E       		.uleb128 0xe
  2564 00d8 3A       		.uleb128 0x3a
  2565 00d9 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccoabUh0.s 			page 46
+ARM GAS  /tmp/ccccnVko.s 			page 46
 
 
  2566 00da 3B       		.uleb128 0x3b
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2620 0111 00       		.byte	0
  2621 0112 00       		.byte	0
  2622 0113 17       		.uleb128 0x17
-ARM GAS  /tmp/ccoabUh0.s 			page 47
+ARM GAS  /tmp/ccccnVko.s 			page 47
 
 
  2623 0114 34       		.uleb128 0x34
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2677 014a 3B       		.uleb128 0x3b
  2678 014b 05       		.uleb128 0x5
  2679 014c 49       		.uleb128 0x49
-ARM GAS  /tmp/ccoabUh0.s 			page 48
+ARM GAS  /tmp/ccccnVko.s 			page 48
 
 
  2680 014d 13       		.uleb128 0x13
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2734 0185 21       		.uleb128 0x21
  2735 0186 0B       		.uleb128 0xb
  2736 0187 01       		.byte	0x1
-ARM GAS  /tmp/ccoabUh0.s 			page 49
+ARM GAS  /tmp/ccccnVko.s 			page 49
 
 
  2737 0188 11       		.uleb128 0x11
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2791 01c1 01       		.uleb128 0x1
  2792 01c2 31       		.uleb128 0x31
  2793 01c3 13       		.uleb128 0x13
-ARM GAS  /tmp/ccoabUh0.s 			page 50
+ARM GAS  /tmp/ccccnVko.s 			page 50
 
 
  2794 01c4 00       		.byte	0
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2848 01fe 34       		.uleb128 0x34
  2849 01ff 00       		.byte	0
  2850 0200 03       		.uleb128 0x3
-ARM GAS  /tmp/ccoabUh0.s 			page 51
+ARM GAS  /tmp/ccccnVko.s 			page 51
 
 
  2851 0201 08       		.uleb128 0x8
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2905 0237 49       		.uleb128 0x49
  2906 0238 13       		.uleb128 0x13
  2907 0239 02       		.uleb128 0x2
-ARM GAS  /tmp/ccoabUh0.s 			page 52
+ARM GAS  /tmp/ccccnVko.s 			page 52
 
 
  2908 023a 17       		.uleb128 0x17
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  2962 0271 00       		.byte	0
  2963 0272 00       		.byte	0
  2964 0273 2F       		.uleb128 0x2f
-ARM GAS  /tmp/ccoabUh0.s 			page 53
+ARM GAS  /tmp/ccccnVko.s 			page 53
 
 
  2965 0274 1D       		.uleb128 0x1d
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3019 02ad 05       		.uleb128 0x5
  3020 02ae 00       		.byte	0
  3021 02af 03       		.uleb128 0x3
-ARM GAS  /tmp/ccoabUh0.s 			page 54
+ARM GAS  /tmp/ccccnVko.s 			page 54
 
 
  3022 02b0 08       		.uleb128 0x8
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3076 02e6 12       		.uleb128 0x12
  3077 02e7 06       		.uleb128 0x6
  3078 02e8 40       		.uleb128 0x40
-ARM GAS  /tmp/ccoabUh0.s 			page 55
+ARM GAS  /tmp/ccccnVko.s 			page 55
 
 
  3079 02e9 18       		.uleb128 0x18
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3133 0047 52       		.byte	0x52
  3134 0048 00000000 		.4byte	0
  3135 004c 00000000 		.4byte	0
-ARM GAS  /tmp/ccoabUh0.s 			page 56
+ARM GAS  /tmp/ccccnVko.s 			page 56
 
 
  3136              	.LLST25:
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3190 00e2 50       		.byte	0x50
  3191 00e3 52000000 		.4byte	.LVL55
  3192 00e7 5E000000 		.4byte	.LVL56
-ARM GAS  /tmp/ccoabUh0.s 			page 57
+ARM GAS  /tmp/ccccnVko.s 			page 57
 
 
  3193 00eb 0100     		.2byte	0x1
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3247 017b 30000000 		.4byte	.LFE10
  3248 017f 0100     		.2byte	0x1
  3249 0181 52       		.byte	0x52
-ARM GAS  /tmp/ccoabUh0.s 			page 58
+ARM GAS  /tmp/ccccnVko.s 			page 58
 
 
  3250 0182 00000000 		.4byte	0
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3304 0212 54       		.byte	0x54
  3305 0213 4C000000 		.4byte	.LVL10
  3306 0217 C4000000 		.4byte	.LVL30
-ARM GAS  /tmp/ccoabUh0.s 			page 59
+ARM GAS  /tmp/ccccnVko.s 			page 59
 
 
  3307 021b 0100     		.2byte	0x1
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3361 02ad 58000000 		.4byte	.LVL12
  3362 02b1 0100     		.2byte	0x1
  3363 02b3 50       		.byte	0x50
-ARM GAS  /tmp/ccoabUh0.s 			page 60
+ARM GAS  /tmp/ccccnVko.s 			page 60
 
 
  3364 02b4 00000000 		.4byte	0
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3418 0345 50       		.byte	0x50
  3419 0346 9F       		.byte	0x9f
  3420 0347 00000000 		.4byte	0
-ARM GAS  /tmp/ccoabUh0.s 			page 61
+ARM GAS  /tmp/ccccnVko.s 			page 61
 
 
  3421 034b 00000000 		.4byte	0
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3475 004c 54000000 		.4byte	.LFE14-.LFB14
  3476 0050 00000000 		.4byte	0
  3477 0054 00000000 		.4byte	0
-ARM GAS  /tmp/ccoabUh0.s 			page 62
+ARM GAS  /tmp/ccccnVko.s 			page 62
 
 
  3478              		.section	.debug_ranges,"",%progbits
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3532 00d0 10000000 		.4byte	.LBB89
  3533 00d4 32000000 		.4byte	.LBE89
  3534 00d8 46000000 		.4byte	.LBB96
-ARM GAS  /tmp/ccoabUh0.s 			page 63
+ARM GAS  /tmp/ccccnVko.s 			page 63
 
 
  3535 00dc 4A000000 		.4byte	.LBE96
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3573 0059 76745F66 		.ascii	"vt_func\000"
  3573      756E6300 
  3574              	.LASF19:
-ARM GAS  /tmp/ccoabUh0.s 			page 64
+ARM GAS  /tmp/ccccnVko.s 			page 64
 
 
  3575 0061 75696E74 		.ascii	"uint64_t\000"
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3599      6C616773 
  3599      00
  3600              	.LASF49:
-ARM GAS  /tmp/ccoabUh0.s 			page 65
+ARM GAS  /tmp/ccccnVko.s 			page 65
 
 
  3601 0100 705F6D70 		.ascii	"p_mpool\000"
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3627      5F7400
  3628              	.LASF52:
  3629 0193 72656761 		.ascii	"regarm_t\000"
-ARM GAS  /tmp/ccoabUh0.s 			page 66
+ARM GAS  /tmp/ccccnVko.s 			page 66
 
 
  3629      726D5F74 
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3654              	.LASF69:
  3655 0226 725F6E65 		.ascii	"r_newer\000"
  3655      77657200 
-ARM GAS  /tmp/ccoabUh0.s 			page 67
+ARM GAS  /tmp/ccccnVko.s 			page 67
 
 
  3656              	.LASF109:
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3681      73656374 
  3681      696F6E73 
  3681      202D6664 
-ARM GAS  /tmp/ccoabUh0.s 			page 68
+ARM GAS  /tmp/ccccnVko.s 			page 68
 
 
  3682              	.LASF56:
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3711      7A6500
  3712              	.LASF32:
  3713 03c4 705F7072 		.ascii	"p_prev\000"
-ARM GAS  /tmp/ccoabUh0.s 			page 69
+ARM GAS  /tmp/ccccnVko.s 			page 69
 
 
  3713      657600
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3744              	.LASF93:
  3745 0454 63665F6F 		.ascii	"cf_off_newer\000"
  3745      66665F6E 
-ARM GAS  /tmp/ccoabUh0.s 			page 70
+ARM GAS  /tmp/ccccnVko.s 			page 70
 
 
  3745      65776572 
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3771      7400
  3772              	.LASF48:
  3773 04f9 705F7265 		.ascii	"p_realprio\000"
-ARM GAS  /tmp/ccoabUh0.s 			page 71
+ARM GAS  /tmp/ccccnVko.s 			page 71
 
 
  3773      616C7072 
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3805 0583 76745F73 		.ascii	"vt_systime\000"
  3805      79737469 
  3805      6D6500
-ARM GAS  /tmp/ccoabUh0.s 			page 72
+ARM GAS  /tmp/ccccnVko.s 			page 72
 
 
  3806              	.LASF87:
@@ -4279,33 +4279,33 @@ ARM GAS  /tmp/ccoabUh0.s 			page 1
  3815      6974696E 
  3815      6700
  3816              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccoabUh0.s 			page 73
+ARM GAS  /tmp/ccccnVko.s 			page 73
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chmtx.c
-     /tmp/ccoabUh0.s:16     .text.chMtxInit:0000000000000000 $t
-     /tmp/ccoabUh0.s:24     .text.chMtxInit:0000000000000000 chMtxInit
-     /tmp/ccoabUh0.s:45     .text.chMtxLockS:0000000000000000 $t
-     /tmp/ccoabUh0.s:53     .text.chMtxLockS:0000000000000000 chMtxLockS
-     /tmp/ccoabUh0.s:296    .text.chMtxLockS:00000000000000c4 $d
-     /tmp/ccoabUh0.s:301    .text.chMtxLock:0000000000000000 $t
-     /tmp/ccoabUh0.s:309    .text.chMtxLock:0000000000000000 chMtxLock
-     /tmp/ccoabUh0.s:348    .text.chMtxTryLock:0000000000000000 $t
-     /tmp/ccoabUh0.s:356    .text.chMtxTryLock:0000000000000000 chMtxTryLock
-     /tmp/ccoabUh0.s:441    .text.chMtxTryLock:000000000000002c $d
-     /tmp/ccoabUh0.s:446    .text.chMtxTryLockS:0000000000000000 $t
-     /tmp/ccoabUh0.s:454    .text.chMtxTryLockS:0000000000000000 chMtxTryLockS
-     /tmp/ccoabUh0.s:497    .text.chMtxTryLockS:000000000000001c $d
-     /tmp/ccoabUh0.s:504    .text.chMtxUnlock:0000000000000000 $t
-     /tmp/ccoabUh0.s:512    .text.chMtxUnlock:0000000000000000 chMtxUnlock
-     /tmp/ccoabUh0.s:654    .text.chMtxUnlock:0000000000000060 $d
-     /tmp/ccoabUh0.s:659    .text.chMtxUnlockS:0000000000000000 $t
-     /tmp/ccoabUh0.s:667    .text.chMtxUnlockS:0000000000000000 chMtxUnlockS
-     /tmp/ccoabUh0.s:776    .text.chMtxUnlockS:000000000000004c $d
-     /tmp/ccoabUh0.s:781    .text.chMtxUnlockAll:0000000000000000 $t
-     /tmp/ccoabUh0.s:789    .text.chMtxUnlockAll:0000000000000000 chMtxUnlockAll
-     /tmp/ccoabUh0.s:908    .text.chMtxUnlockAll:0000000000000050 $d
+     /tmp/ccccnVko.s:16     .text.chMtxInit:0000000000000000 $t
+     /tmp/ccccnVko.s:24     .text.chMtxInit:0000000000000000 chMtxInit
+     /tmp/ccccnVko.s:45     .text.chMtxLockS:0000000000000000 $t
+     /tmp/ccccnVko.s:53     .text.chMtxLockS:0000000000000000 chMtxLockS
+     /tmp/ccccnVko.s:296    .text.chMtxLockS:00000000000000c4 $d
+     /tmp/ccccnVko.s:301    .text.chMtxLock:0000000000000000 $t
+     /tmp/ccccnVko.s:309    .text.chMtxLock:0000000000000000 chMtxLock
+     /tmp/ccccnVko.s:348    .text.chMtxTryLock:0000000000000000 $t
+     /tmp/ccccnVko.s:356    .text.chMtxTryLock:0000000000000000 chMtxTryLock
+     /tmp/ccccnVko.s:441    .text.chMtxTryLock:000000000000002c $d
+     /tmp/ccccnVko.s:446    .text.chMtxTryLockS:0000000000000000 $t
+     /tmp/ccccnVko.s:454    .text.chMtxTryLockS:0000000000000000 chMtxTryLockS
+     /tmp/ccccnVko.s:497    .text.chMtxTryLockS:000000000000001c $d
+     /tmp/ccccnVko.s:504    .text.chMtxUnlock:0000000000000000 $t
+     /tmp/ccccnVko.s:512    .text.chMtxUnlock:0000000000000000 chMtxUnlock
+     /tmp/ccccnVko.s:654    .text.chMtxUnlock:0000000000000060 $d
+     /tmp/ccccnVko.s:659    .text.chMtxUnlockS:0000000000000000 $t
+     /tmp/ccccnVko.s:667    .text.chMtxUnlockS:0000000000000000 chMtxUnlockS
+     /tmp/ccccnVko.s:776    .text.chMtxUnlockS:000000000000004c $d
+     /tmp/ccccnVko.s:781    .text.chMtxUnlockAll:0000000000000000 $t
+     /tmp/ccccnVko.s:789    .text.chMtxUnlockAll:0000000000000000 chMtxUnlockAll
+     /tmp/ccccnVko.s:908    .text.chMtxUnlockAll:0000000000000050 $d
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

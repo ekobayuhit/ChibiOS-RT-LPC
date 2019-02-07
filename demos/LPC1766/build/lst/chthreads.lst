@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccu734bD.s 			page 1
+ARM GAS  /tmp/cc34Z630.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
   55              		.loc 1 92 0
   56 0014 0461     		str	r4, [r0, #16]
   57 0016 4561     		str	r5, [r0, #20]
-ARM GAS  /tmp/ccu734bD.s 			page 2
+ARM GAS  /tmp/cc34Z630.s 			page 2
 
 
   58              		.loc 1 98 0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  112              	.LVL2:
  113 0000 2DE9F041 		push	{r4, r5, r6, r7, r8, lr}
  114              		.cfi_def_cfa_offset 24
-ARM GAS  /tmp/ccu734bD.s 			page 3
+ARM GAS  /tmp/cc34Z630.s 			page 3
 
 
  115              		.cfi_offset 4, -24
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  169              	.LVL7:
  170              		.loc 1 98 0
  171 002e 00F12C03 		add	r3, r0, #44
-ARM GAS  /tmp/ccu734bD.s 			page 4
+ARM GAS  /tmp/cc34Z630.s 			page 4
 
 
  172              		.loc 1 92 0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  226              		.loc 1 181 0
  227              		.cfi_startproc
  228              		@ args = 4, pretend = 0, frame = 0
-ARM GAS  /tmp/ccu734bD.s 			page 5
+ARM GAS  /tmp/cc34Z630.s 			page 5
 
 
  229              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  283 0028 7960     		str	r1, [r7, #4]
  284 002a 1349     		ldr	r1, .L11+4
  285              	.LBB34:
-ARM GAS  /tmp/ccu734bD.s 			page 6
+ARM GAS  /tmp/cc34Z630.s 			page 6
 
 
  286              	.LBB30:
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  340 005a 3061     		str	r0, [r6, #16]
  341              		.loc 1 95 0
  342 005c 8762     		str	r7, [r0, #40]
-ARM GAS  /tmp/ccu734bD.s 			page 7
+ARM GAS  /tmp/cc34Z630.s 			page 7
 
 
  343              		.loc 1 98 0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  397              		.loc 1 215 0
  398 0002 4023     		movs	r3, #64
  399              		.syntax unified
-ARM GAS  /tmp/ccu734bD.s 			page 8
+ARM GAS  /tmp/cc34Z630.s 			page 8
 
 
  400              	@ 215 "../../os/kernel/src/chthreads.c" 1
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  454              		.thumb_func
  455              		.fpu softvfp
  456              		.type	chThdResume, %function
-ARM GAS  /tmp/ccu734bD.s 			page 9
+ARM GAS  /tmp/cc34Z630.s 			page 9
 
 
  457              	chThdResume:
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  511              		.type	chThdTerminate, %function
  512              	chThdTerminate:
  513              	.LFB12:
-ARM GAS  /tmp/ccu734bD.s 			page 10
+ARM GAS  /tmp/cc34Z630.s 			page 10
 
 
  514              		.loc 1 266 0
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  568 0000 08B5     		push	{r3, lr}
  569              		.cfi_def_cfa_offset 8
  570              		.cfi_offset 3, -8
-ARM GAS  /tmp/ccu734bD.s 			page 11
+ARM GAS  /tmp/cc34Z630.s 			page 11
 
 
  571              		.cfi_offset 14, -4
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  625 0002 4023     		movs	r3, #64
  626              		.syntax unified
  627              	@ 304 "../../os/kernel/src/chthreads.c" 1
-ARM GAS  /tmp/ccu734bD.s 			page 12
+ARM GAS  /tmp/cc34Z630.s 			page 12
 
 
  628 0004 83F31188 		msr     BASEPRI, r3
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  682              	.LBB52:
  683              		.loc 1 319 0
  684 0002 4023     		movs	r3, #64
-ARM GAS  /tmp/ccu734bD.s 			page 13
+ARM GAS  /tmp/cc34Z630.s 			page 13
 
 
  685              		.syntax unified
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  739              		.cfi_def_cfa_offset 16
  740              		.cfi_offset 3, -16
  741              		.cfi_offset 4, -12
-ARM GAS  /tmp/ccu734bD.s 			page 14
+ARM GAS  /tmp/cc34Z630.s 			page 14
 
 
  742              		.cfi_offset 5, -8
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  796              	.LVL45:
  797              		.loc 1 376 0
  798 0036 FFF7FEBF 		b	chSchGoSleepS
-ARM GAS  /tmp/ccu734bD.s 			page 15
+ARM GAS  /tmp/cc34Z630.s 			page 15
 
 
  799              	.LVL46:
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  853              		@ args = 0, pretend = 0, frame = 0
  854              		@ frame_needed = 0, uses_anonymous_args = 0
  855              	.LVL49:
-ARM GAS  /tmp/ccu734bD.s 			page 16
+ARM GAS  /tmp/cc34Z630.s 			page 16
 
 
  856 0000 38B5     		push	{r3, r4, r5, lr}
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  910 0022 0023     		movs	r3, #0
  911              		.syntax unified
  912              	@ 428 "../../os/kernel/src/chthreads.c" 1
-ARM GAS  /tmp/ccu734bD.s 			page 17
+ARM GAS  /tmp/cc34Z630.s 			page 17
 
 
  913 0024 83F31188 		msr     BASEPRI, r3
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  967 002d 61000000 		.4byte	.LASF4
  968 0031 03       		.byte	0x3
  969 0032 D8       		.byte	0xd8
-ARM GAS  /tmp/ccu734bD.s 			page 18
+ARM GAS  /tmp/cc34Z630.s 			page 18
 
 
  970 0033 37000000 		.4byte	0x37
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1024 009c 04       		.byte	0x4
  1025 009d 07       		.byte	0x7
  1026 009e ED010000 		.4byte	.LASF13
-ARM GAS  /tmp/ccu734bD.s 			page 19
+ARM GAS  /tmp/cc34Z630.s 			page 19
 
 
  1027 00a2 03       		.uleb128 0x3
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1081 0114 2D010000 		.4byte	.LASF25
  1082 0118 06       		.byte	0x6
  1083 0119 28       		.byte	0x28
-ARM GAS  /tmp/ccu734bD.s 			page 20
+ARM GAS  /tmp/cc34Z630.s 			page 20
 
 
  1084 011a B4000000 		.4byte	0xb4
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1138 018f 08       		.byte	0x8
  1139 0190 5D       		.byte	0x5d
  1140 0191 3D030000 		.4byte	0x33d
-ARM GAS  /tmp/ccu734bD.s 			page 21
+ARM GAS  /tmp/cc34Z630.s 			page 21
 
 
  1141 0195 0C       		.byte	0xc
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1195 0201 24       		.byte	0x24
  1196 0202 07       		.uleb128 0x7
  1197 0203 3E060000 		.4byte	.LASF43
-ARM GAS  /tmp/ccu734bD.s 			page 22
+ARM GAS  /tmp/cc34Z630.s 			page 22
 
 
  1198 0207 08       		.byte	0x8
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1252 0270 07       		.byte	0x7
  1253 0271 5D       		.byte	0x5d
  1254 0272 78020000 		.4byte	0x278
-ARM GAS  /tmp/ccu734bD.s 			page 23
+ARM GAS  /tmp/cc34Z630.s 			page 23
 
 
  1255 0276 04       		.byte	0x4
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1309 02df 1901     		.2byte	0x119
  1310 02e1 A9020000 		.4byte	0x2a9
  1311 02e5 04       		.byte	0x4
-ARM GAS  /tmp/ccu734bD.s 			page 24
+ARM GAS  /tmp/cc34Z630.s 			page 24
 
 
  1312 02e6 0D       		.uleb128 0xd
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1366 0356 00       		.byte	0
  1367 0357 00       		.byte	0
  1368 0358 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccu734bD.s 			page 25
+ARM GAS  /tmp/cc34Z630.s 			page 25
 
 
  1369 0359 04       		.byte	0x4
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1423 03c8 07       		.uleb128 0x7
  1424 03c9 98050000 		.4byte	.LASF63
  1425 03cd 0A       		.byte	0xa
-ARM GAS  /tmp/ccu734bD.s 			page 26
+ARM GAS  /tmp/cc34Z630.s 			page 26
 
 
  1426 03ce 65       		.byte	0x65
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1480 0437 0B       		.byte	0xb
  1481 0438 58       		.byte	0x58
  1482 0439 7E020000 		.4byte	0x27e
-ARM GAS  /tmp/ccu734bD.s 			page 27
+ARM GAS  /tmp/cc34Z630.s 			page 27
 
 
  1483 043d 00       		.byte	0
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1537 04a9 07       		.uleb128 0x7
  1538 04aa 30060000 		.4byte	.LASF77
  1539 04ae 0C       		.byte	0xc
-ARM GAS  /tmp/ccu734bD.s 			page 28
+ARM GAS  /tmp/cc34Z630.s 			page 28
 
 
  1540 04af 28       		.byte	0x28
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1594 051b 04       		.byte	0x4
  1595 051c C8040000 		.4byte	0x4c8
  1596 0520 03       		.uleb128 0x3
-ARM GAS  /tmp/ccu734bD.s 			page 29
+ARM GAS  /tmp/cc34Z630.s 			page 29
 
 
  1597 0521 00000000 		.4byte	.LASF84
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1651 0590 07       		.uleb128 0x7
  1652 0591 B1000000 		.4byte	.LASF91
  1653 0595 0D       		.byte	0xd
-ARM GAS  /tmp/ccu734bD.s 			page 30
+ARM GAS  /tmp/cc34Z630.s 			page 30
 
 
  1654 0596 2C       		.byte	0x2c
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1708 0602 36       		.byte	0x36
  1709 0603 B4000000 		.4byte	0xb4
  1710 0607 13       		.byte	0x13
-ARM GAS  /tmp/ccu734bD.s 			page 31
+ARM GAS  /tmp/cc34Z630.s 			page 31
 
 
  1711 0608 07       		.uleb128 0x7
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1765 0681 18       		.uleb128 0x18
  1766 0682 747000   		.ascii	"tp\000"
  1767 0685 01       		.byte	0x1
-ARM GAS  /tmp/ccu734bD.s 			page 32
+ARM GAS  /tmp/cc34Z630.s 			page 32
 
 
  1768 0686 9D01     		.2byte	0x19d
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1822 070c 37       		.byte	0x37
  1823 070d 00       		.byte	0
  1824 070e 21       		.uleb128 0x21
-ARM GAS  /tmp/ccu734bD.s 			page 33
+ARM GAS  /tmp/cc34Z630.s 			page 33
 
 
  1825 070f 2E000000 		.4byte	.LVL55
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1879 0793 E00C0000 		.4byte	0xce0
  1880 0797 20       		.uleb128 0x20
  1881 0798 01       		.uleb128 0x1
-ARM GAS  /tmp/ccu734bD.s 			page 34
+ARM GAS  /tmp/cc34Z630.s 			page 34
 
 
  1882 0799 50       		.byte	0x50
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1936 0809 02000000 		.4byte	.LBB52
  1937 080d 06000000 		.4byte	.LBE52-.LBB52
  1938 0811 24080000 		.4byte	0x824
-ARM GAS  /tmp/ccu734bD.s 			page 35
+ARM GAS  /tmp/cc34Z630.s 			page 35
 
 
  1939 0815 1B       		.uleb128 0x1b
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  1993 0895 A8080000 		.4byte	0x8a8
  1994 0899 1B       		.uleb128 0x1b
  1995 089a 746D7000 		.ascii	"tmp\000"
-ARM GAS  /tmp/ccu734bD.s 			page 36
+ARM GAS  /tmp/cc34Z630.s 			page 36
 
 
  1996 089e 01       		.byte	0x1
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2050 0915 00       		.byte	0
  2051 0916 21       		.uleb128 0x21
  2052 0917 10000000 		.4byte	.LVL33
-ARM GAS  /tmp/ccu734bD.s 			page 37
+ARM GAS  /tmp/cc34Z630.s 			page 37
 
 
  2053 091b 0C0D0000 		.4byte	0xd0c
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2107 0981 2B       		.uleb128 0x2b
  2108 0982 8C030000 		.4byte	.LASF114
  2109 0986 01       		.byte	0x1
-ARM GAS  /tmp/ccu734bD.s 			page 38
+ARM GAS  /tmp/cc34Z630.s 			page 38
 
 
  2110 0987 F3       		.byte	0xf3
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2164 09f5 01       		.byte	0x1
  2165 09f6 D2       		.byte	0xd2
  2166 09f7 1E010000 		.4byte	0x11e
-ARM GAS  /tmp/ccu734bD.s 			page 39
+ARM GAS  /tmp/cc34Z630.s 			page 39
 
 
  2167 09fb 00000000 		.4byte	.LFB10
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2221 0a7c 8F0B0000 		.4byte	0xb8f
  2222 0a80 2C       		.uleb128 0x2c
  2223 0a81 77737000 		.ascii	"wsp\000"
-ARM GAS  /tmp/ccu734bD.s 			page 40
+ARM GAS  /tmp/cc34Z630.s 			page 40
 
 
  2224 0a85 01       		.byte	0x1
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2278 0b07 01       		.uleb128 0x1
  2279 0b08 53       		.byte	0x53
  2280 0b09 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 41
+ARM GAS  /tmp/cc34Z630.s 			page 41
 
 
  2281 0b0a 32       		.uleb128 0x32
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2335 0b8b 75       		.byte	0x75
  2336 0b8c 00       		.sleb128 0
  2337 0b8d 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 42
+ARM GAS  /tmp/cc34Z630.s 			page 42
 
 
  2338 0b8e 00       		.byte	0
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2392 0c00 45       		.byte	0x45
  2393 0c01 1E010000 		.4byte	0x11e
  2394 0c05 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 43
+ARM GAS  /tmp/cc34Z630.s 			page 43
 
 
  2395 0c06 38       		.uleb128 0x38
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2449 0c79 8F0B0000 		.4byte	0xb8f
  2450 0c7d 00000000 		.4byte	.LFB8
  2451 0c81 64000000 		.4byte	.LFE8-.LFB8
-ARM GAS  /tmp/ccu734bD.s 			page 44
+ARM GAS  /tmp/cc34Z630.s 			page 44
 
 
  2452 0c85 01       		.uleb128 0x1
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2506 0d06 98030000 		.4byte	.LASF126
  2507 0d0a 0B       		.byte	0xb
  2508 0d0b 9B       		.byte	0x9b
-ARM GAS  /tmp/ccu734bD.s 			page 45
+ARM GAS  /tmp/cc34Z630.s 			page 45
 
 
  2509 0d0c 3D       		.uleb128 0x3d
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2563 0024 0B       		.uleb128 0xb
  2564 0025 3B       		.uleb128 0x3b
  2565 0026 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccu734bD.s 			page 46
+ARM GAS  /tmp/cc34Z630.s 			page 46
 
 
  2566 0027 49       		.uleb128 0x49
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2620 005d 00       		.byte	0
  2621 005e 03       		.uleb128 0x3
  2622 005f 08       		.uleb128 0x8
-ARM GAS  /tmp/ccu734bD.s 			page 47
+ARM GAS  /tmp/cc34Z630.s 			page 47
 
 
  2623 0060 3A       		.uleb128 0x3a
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2677 0096 0D       		.uleb128 0xd
  2678 0097 0D       		.uleb128 0xd
  2679 0098 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 48
+ARM GAS  /tmp/cc34Z630.s 			page 48
 
 
  2680 0099 03       		.uleb128 0x3
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2734 00cf 01       		.uleb128 0x1
  2735 00d0 13       		.uleb128 0x13
  2736 00d1 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 49
+ARM GAS  /tmp/cc34Z630.s 			page 49
 
 
  2737 00d2 00       		.byte	0
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2791 0108 19       		.uleb128 0x19
  2792 0109 03       		.uleb128 0x3
  2793 010a 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccu734bD.s 			page 50
+ARM GAS  /tmp/cc34Z630.s 			page 50
 
 
  2794 010b 3A       		.uleb128 0x3a
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2848 0142 01       		.uleb128 0x1
  2849 0143 12       		.uleb128 0x12
  2850 0144 06       		.uleb128 0x6
-ARM GAS  /tmp/ccu734bD.s 			page 51
+ARM GAS  /tmp/cc34Z630.s 			page 51
 
 
  2851 0145 01       		.uleb128 0x1
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2905 017d 01       		.byte	0x1
  2906 017e 11       		.uleb128 0x11
  2907 017f 01       		.uleb128 0x1
-ARM GAS  /tmp/ccu734bD.s 			page 52
+ARM GAS  /tmp/cc34Z630.s 			page 52
 
 
  2908 0180 31       		.uleb128 0x31
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  2962 01bc 11       		.uleb128 0x11
  2963 01bd 01       		.uleb128 0x1
  2964 01be 12       		.uleb128 0x12
-ARM GAS  /tmp/ccu734bD.s 			page 53
+ARM GAS  /tmp/cc34Z630.s 			page 53
 
 
  2965 01bf 06       		.uleb128 0x6
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3019 01fa 3B       		.uleb128 0x3b
  3020 01fb 05       		.uleb128 0x5
  3021 01fc 49       		.uleb128 0x49
-ARM GAS  /tmp/ccu734bD.s 			page 54
+ARM GAS  /tmp/cc34Z630.s 			page 54
 
 
  3022 01fd 13       		.uleb128 0x13
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3076 0234 2C       		.uleb128 0x2c
  3077 0235 05       		.uleb128 0x5
  3078 0236 00       		.byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 55
+ARM GAS  /tmp/cc34Z630.s 			page 55
 
 
  3079 0237 03       		.uleb128 0x3
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3133 026d 03       		.uleb128 0x3
  3134 026e 0E       		.uleb128 0xe
  3135 026f 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccu734bD.s 			page 56
+ARM GAS  /tmp/cc34Z630.s 			page 56
 
 
  3136 0270 0B       		.uleb128 0xb
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3190 02a6 17       		.uleb128 0x17
  3191 02a7 58       		.uleb128 0x58
  3192 02a8 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccu734bD.s 			page 57
+ARM GAS  /tmp/cc34Z630.s 			page 57
 
 
  3193 02a9 59       		.uleb128 0x59
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3247 02df 03       		.uleb128 0x3
  3248 02e0 0E       		.uleb128 0xe
  3249 02e1 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccu734bD.s 			page 58
+ARM GAS  /tmp/cc34Z630.s 			page 58
 
 
  3250 02e2 0B       		.uleb128 0xb
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3304 0319 00       		.byte	0
  3305 031a 00       		.byte	0
  3306 031b 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccu734bD.s 			page 59
+ARM GAS  /tmp/cc34Z630.s 			page 59
 
 
  3307 031c 34       		.uleb128 0x34
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3361 0041 50       		.byte	0x50
  3362 0042 00000000 		.4byte	0
  3363 0046 00000000 		.4byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 60
+ARM GAS  /tmp/cc34Z630.s 			page 60
 
 
  3364              	.LLST31:
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3418 00ce 00000000 		.4byte	0
  3419              	.LLST28:
  3420 00d2 00000000 		.4byte	.LVL47
-ARM GAS  /tmp/ccu734bD.s 			page 61
+ARM GAS  /tmp/cc34Z630.s 			page 61
 
 
  3421 00d6 09000000 		.4byte	.LVL48-1
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3475 0157 50       		.byte	0x50
  3476 0158 0F000000 		.4byte	.LVL29-1
  3477 015c 1A000000 		.4byte	.LFE11
-ARM GAS  /tmp/ccu734bD.s 			page 62
+ARM GAS  /tmp/cc34Z630.s 			page 62
 
 
  3478 0160 0100     		.2byte	0x1
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3532 01ea 9F       		.byte	0x9f
  3533 01eb 26000000 		.4byte	.LVL15
  3534 01ef 7C000000 		.4byte	.LFE9
-ARM GAS  /tmp/ccu734bD.s 			page 63
+ARM GAS  /tmp/cc34Z630.s 			page 63
 
 
  3535 01f3 0400     		.2byte	0x4
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3589 026f 00000000 		.4byte	0
  3590              	.LLST11:
  3591 0273 00000000 		.4byte	.LVL11
-ARM GAS  /tmp/ccu734bD.s 			page 64
+ARM GAS  /tmp/cc34Z630.s 			page 64
 
 
  3592 0277 72000000 		.4byte	.LVL23
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3646 02f8 00000000 		.4byte	0
  3647 02fc 00000000 		.4byte	0
  3648              	.LLST15:
-ARM GAS  /tmp/ccu734bD.s 			page 65
+ARM GAS  /tmp/cc34Z630.s 			page 65
 
 
  3649 0300 0E000000 		.4byte	.LVL13
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3703 0389 08       		.sleb128 8
  3704 038a 00000000 		.4byte	0
  3705 038e 00000000 		.4byte	0
-ARM GAS  /tmp/ccu734bD.s 			page 66
+ARM GAS  /tmp/cc34Z630.s 			page 66
 
 
  3706              	.LLST1:
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3760 0414 0200     		.2byte	0x2
  3761 0416 91       		.byte	0x91
  3762 0417 00       		.sleb128 0
-ARM GAS  /tmp/ccu734bD.s 			page 67
+ARM GAS  /tmp/cc34Z630.s 			page 67
 
 
  3763 0418 5A000000 		.4byte	.LVL10
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3817 0060 00000000 		.4byte	.LFB16
  3818 0064 0A000000 		.4byte	.LFE16-.LFB16
  3819 0068 00000000 		.4byte	.LFB18
-ARM GAS  /tmp/ccu734bD.s 			page 68
+ARM GAS  /tmp/cc34Z630.s 			page 68
 
 
  3820 006c 38000000 		.4byte	.LFE18-.LFB18
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3874 00c4 64000000 		.4byte	.LFE8
  3875 00c8 00000000 		.4byte	.LFB9
  3876 00cc 7C000000 		.4byte	.LFE9
-ARM GAS  /tmp/ccu734bD.s 			page 69
+ARM GAS  /tmp/cc34Z630.s 			page 69
 
 
  3877 00d0 00000000 		.4byte	.LFB10
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3912      00
  3913              	.LASF62:
  3914 006d 76745F66 		.ascii	"vt_func\000"
-ARM GAS  /tmp/ccu734bD.s 			page 70
+ARM GAS  /tmp/cc34Z630.s 			page 70
 
 
  3914      756E6300 
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3940      66665F73 
  3940      746B6C69 
  3940      6D697400 
-ARM GAS  /tmp/ccu734bD.s 			page 71
+ARM GAS  /tmp/cc34Z630.s 			page 71
 
 
  3941              	.LASF99:
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3967              	.LASF12:
  3968 019e 5F5F7569 		.ascii	"__uint32_t\000"
  3968      6E743332 
-ARM GAS  /tmp/ccu734bD.s 			page 72
+ARM GAS  /tmp/cc34Z630.s 			page 72
 
 
  3968      5F7400
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  3994      7420756E 
  3994      7369676E 
  3994      65642069 
-ARM GAS  /tmp/ccu734bD.s 			page 73
+ARM GAS  /tmp/cc34Z630.s 			page 73
 
 
  3994      6E7400
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4023              	.LASF61:
  4024 02d0 76745F74 		.ascii	"vt_time\000"
  4024      696D6500 
-ARM GAS  /tmp/ccu734bD.s 			page 74
+ARM GAS  /tmp/cc34Z630.s 			page 74
 
 
  4025              	.LASF130:
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4048 03d7 63685F73 		.ascii	"ch_size\000"
  4048      697A6500 
  4049              	.LASF110:
-ARM GAS  /tmp/ccu734bD.s 			page 75
+ARM GAS  /tmp/cc34Z630.s 			page 75
 
 
  4050 03df 74696D65 		.ascii	"time\000"
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4079              	.LASF38:
  4080 046f 705F7374 		.ascii	"p_state\000"
  4080      61746500 
-ARM GAS  /tmp/ccu734bD.s 			page 76
+ARM GAS  /tmp/cc34Z630.s 			page 76
 
 
  4081              	.LASF41:
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4108      00
  4109              	.LASF92:
  4110 0507 63665F6F 		.ascii	"cf_off_prio\000"
-ARM GAS  /tmp/ccu734bD.s 			page 77
+ARM GAS  /tmp/cc34Z630.s 			page 77
 
 
  4110      66665F70 
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4139              	.LASF63:
  4140 0598 76745F70 		.ascii	"vt_par\000"
  4140      617200
-ARM GAS  /tmp/ccu734bD.s 			page 78
+ARM GAS  /tmp/cc34Z630.s 			page 78
 
 
  4141              	.LASF93:
@@ -4678,49 +4678,49 @@ ARM GAS  /tmp/ccu734bD.s 			page 1
  4170      7800
  4171              	.LASF43:
  4172 063e 705F7761 		.ascii	"p_waiting\000"
-ARM GAS  /tmp/ccu734bD.s 			page 79
+ARM GAS  /tmp/cc34Z630.s 			page 79
 
 
  4172      6974696E 
  4172      6700
  4173              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccu734bD.s 			page 80
+ARM GAS  /tmp/cc34Z630.s 			page 80
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chthreads.c
-     /tmp/ccu734bD.s:16     .text._thread_init:0000000000000000 $t
-     /tmp/ccu734bD.s:24     .text._thread_init:0000000000000000 _thread_init
-     /tmp/ccu734bD.s:93     .text._thread_init:0000000000000040 $d
-     /tmp/ccu734bD.s:98     .text.chThdCreateI:0000000000000000 $t
-     /tmp/ccu734bD.s:106    .text.chThdCreateI:0000000000000000 chThdCreateI
-     /tmp/ccu734bD.s:210    .text.chThdCreateI:000000000000005c $d
-     /tmp/ccu734bD.s:216    .text.chThdCreateStatic:0000000000000000 $t
-     /tmp/ccu734bD.s:224    .text.chThdCreateStatic:0000000000000000 chThdCreateStatic
-     /tmp/ccu734bD.s:371    .text.chThdCreateStatic:0000000000000074 $d
-     /tmp/ccu734bD.s:377    .text.chThdSetPriority:0000000000000000 $t
-     /tmp/ccu734bD.s:385    .text.chThdSetPriority:0000000000000000 chThdSetPriority
-     /tmp/ccu734bD.s:444    .text.chThdSetPriority:000000000000002c $d
-     /tmp/ccu734bD.s:449    .text.chThdResume:0000000000000000 $t
-     /tmp/ccu734bD.s:457    .text.chThdResume:0000000000000000 chThdResume
-     /tmp/ccu734bD.s:504    .text.chThdTerminate:0000000000000000 $t
-     /tmp/ccu734bD.s:512    .text.chThdTerminate:0000000000000000 chThdTerminate
-     /tmp/ccu734bD.s:553    .text.chThdSleep:0000000000000000 $t
-     /tmp/ccu734bD.s:561    .text.chThdSleep:0000000000000000 chThdSleep
-     /tmp/ccu734bD.s:604    .text.chThdSleepUntil:0000000000000000 $t
-     /tmp/ccu734bD.s:612    .text.chThdSleepUntil:0000000000000000 chThdSleepUntil
-     /tmp/ccu734bD.s:658    .text.chThdSleepUntil:0000000000000020 $d
-     /tmp/ccu734bD.s:664    .text.chThdYield:0000000000000000 $t
-     /tmp/ccu734bD.s:672    .text.chThdYield:0000000000000000 chThdYield
-     /tmp/ccu734bD.s:717    .text.chThdYield:0000000000000024 $d
-     /tmp/ccu734bD.s:723    .text.chThdExitS:0000000000000000 $t
-     /tmp/ccu734bD.s:731    .text.chThdExitS:0000000000000000 chThdExitS
-     /tmp/ccu734bD.s:803    .text.chThdExitS:000000000000003c $d
-     /tmp/ccu734bD.s:808    .text.chThdExit:0000000000000000 $t
-     /tmp/ccu734bD.s:816    .text.chThdExit:0000000000000000 chThdExit
-     /tmp/ccu734bD.s:841    .text.chThdWait:0000000000000000 $t
-     /tmp/ccu734bD.s:849    .text.chThdWait:0000000000000000 chThdWait
-     /tmp/ccu734bD.s:929    .text.chThdWait:0000000000000034 $d
+     /tmp/cc34Z630.s:16     .text._thread_init:0000000000000000 $t
+     /tmp/cc34Z630.s:24     .text._thread_init:0000000000000000 _thread_init
+     /tmp/cc34Z630.s:93     .text._thread_init:0000000000000040 $d
+     /tmp/cc34Z630.s:98     .text.chThdCreateI:0000000000000000 $t
+     /tmp/cc34Z630.s:106    .text.chThdCreateI:0000000000000000 chThdCreateI
+     /tmp/cc34Z630.s:210    .text.chThdCreateI:000000000000005c $d
+     /tmp/cc34Z630.s:216    .text.chThdCreateStatic:0000000000000000 $t
+     /tmp/cc34Z630.s:224    .text.chThdCreateStatic:0000000000000000 chThdCreateStatic
+     /tmp/cc34Z630.s:371    .text.chThdCreateStatic:0000000000000074 $d
+     /tmp/cc34Z630.s:377    .text.chThdSetPriority:0000000000000000 $t
+     /tmp/cc34Z630.s:385    .text.chThdSetPriority:0000000000000000 chThdSetPriority
+     /tmp/cc34Z630.s:444    .text.chThdSetPriority:000000000000002c $d
+     /tmp/cc34Z630.s:449    .text.chThdResume:0000000000000000 $t
+     /tmp/cc34Z630.s:457    .text.chThdResume:0000000000000000 chThdResume
+     /tmp/cc34Z630.s:504    .text.chThdTerminate:0000000000000000 $t
+     /tmp/cc34Z630.s:512    .text.chThdTerminate:0000000000000000 chThdTerminate
+     /tmp/cc34Z630.s:553    .text.chThdSleep:0000000000000000 $t
+     /tmp/cc34Z630.s:561    .text.chThdSleep:0000000000000000 chThdSleep
+     /tmp/cc34Z630.s:604    .text.chThdSleepUntil:0000000000000000 $t
+     /tmp/cc34Z630.s:612    .text.chThdSleepUntil:0000000000000000 chThdSleepUntil
+     /tmp/cc34Z630.s:658    .text.chThdSleepUntil:0000000000000020 $d
+     /tmp/cc34Z630.s:664    .text.chThdYield:0000000000000000 $t
+     /tmp/cc34Z630.s:672    .text.chThdYield:0000000000000000 chThdYield
+     /tmp/cc34Z630.s:717    .text.chThdYield:0000000000000024 $d
+     /tmp/cc34Z630.s:723    .text.chThdExitS:0000000000000000 $t
+     /tmp/cc34Z630.s:731    .text.chThdExitS:0000000000000000 chThdExitS
+     /tmp/cc34Z630.s:803    .text.chThdExitS:000000000000003c $d
+     /tmp/cc34Z630.s:808    .text.chThdExit:0000000000000000 $t
+     /tmp/cc34Z630.s:816    .text.chThdExit:0000000000000000 chThdExit
+     /tmp/cc34Z630.s:841    .text.chThdWait:0000000000000000 $t
+     /tmp/cc34Z630.s:849    .text.chThdWait:0000000000000000 chThdWait
+     /tmp/cc34Z630.s:929    .text.chThdWait:0000000000000034 $d
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

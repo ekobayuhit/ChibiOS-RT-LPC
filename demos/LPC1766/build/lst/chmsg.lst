@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccuocemm.s 			page 1
+ARM GAS  /tmp/ccL45xPJ.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
   55              	.LVL2:
   56              	.LBB11:
   57              	.LBB12:
-ARM GAS  /tmp/ccuocemm.s 			page 2
+ARM GAS  /tmp/ccL45xPJ.s 			page 2
 
 
   58              		.file 2 "../../os/kernel/include/chinline.h"
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  112              		.cfi_endproc
  113              	.LFE7:
  114              		.size	chMsgSend, .-chMsgSend
-ARM GAS  /tmp/ccuocemm.s 			page 3
+ARM GAS  /tmp/ccL45xPJ.s 			page 3
 
 
  115              		.section	.text.chMsgWait,"ax",%progbits
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  169              		.loc 2 55 0
  170 001c CC62     		str	r4, [r1, #44]
  171              	.LVL10:
-ARM GAS  /tmp/ccuocemm.s 			page 4
+ARM GAS  /tmp/ccL45xPJ.s 			page 4
 
 
  172 001e 6260     		str	r2, [r4, #4]
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  226              		.loc 1 123 0
  227 0002 4023     		movs	r3, #64
  228              		.syntax unified
-ARM GAS  /tmp/ccuocemm.s 			page 5
+ARM GAS  /tmp/ccL45xPJ.s 			page 5
 
 
  229              	@ 123 "../../os/kernel/src/chmsg.c" 1
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  283 002c 03       		.uleb128 0x3
  284 002d 04       		.byte	0x4
  285 002e 07       		.byte	0x7
-ARM GAS  /tmp/ccuocemm.s 			page 6
+ARM GAS  /tmp/ccL45xPJ.s 			page 6
 
 
  286 002f 7E010000 		.4byte	.LASF0
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  340 0098 48030000 		.4byte	.LASF13
  341 009c 03       		.byte	0x3
  342 009d 5B       		.byte	0x5b
-ARM GAS  /tmp/ccuocemm.s 			page 7
+ARM GAS  /tmp/ccL45xPJ.s 			page 7
 
 
  343 009e A2000000 		.4byte	0xa2
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  397 0113 04       		.uleb128 0x4
  398 0114 6D030000 		.4byte	.LASF25
  399 0118 05       		.byte	0x5
-ARM GAS  /tmp/ccuocemm.s 			page 8
+ARM GAS  /tmp/ccL45xPJ.s 			page 8
 
 
  400 0119 29       		.byte	0x29
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  454 018b 07       		.uleb128 0x7
  455 018c 4A010000 		.4byte	.LASF34
  456 0190 07       		.byte	0x7
-ARM GAS  /tmp/ccuocemm.s 			page 9
+ARM GAS  /tmp/ccL45xPJ.s 			page 9
 
 
  457 0191 5F       		.byte	0x5f
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  511 01fd B2       		.byte	0xb2
  512 01fe 93020000 		.4byte	0x293
  513 0202 28       		.byte	0x28
-ARM GAS  /tmp/ccuocemm.s 			page 10
+ARM GAS  /tmp/ccL45xPJ.s 			page 10
 
 
  514 0203 07       		.uleb128 0x7
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  568 026c 00       		.byte	0
  569 026d 0A       		.uleb128 0xa
  570 026e 04       		.byte	0x4
-ARM GAS  /tmp/ccuocemm.s 			page 11
+ARM GAS  /tmp/ccL45xPJ.s 			page 11
 
 
  571 026f 44010000 		.4byte	0x144
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  625 02dc 723600   		.ascii	"r6\000"
  626 02df 08       		.byte	0x8
  627 02e0 1A01     		.2byte	0x11a
-ARM GAS  /tmp/ccuocemm.s 			page 12
+ARM GAS  /tmp/ccL45xPJ.s 			page 12
 
 
  628 02e2 9E020000 		.4byte	0x29e
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  682 034f B6020000 		.4byte	0x2b6
  683 0353 03       		.uleb128 0x3
  684 0354 04       		.byte	0x4
-ARM GAS  /tmp/ccuocemm.s 			page 13
+ARM GAS  /tmp/ccL45xPJ.s 			page 13
 
 
  685 0355 07       		.byte	0x7
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  739 03c4 A9020000 		.4byte	0x2a9
  740 03c8 10       		.byte	0x10
  741 03c9 00       		.byte	0
-ARM GAS  /tmp/ccuocemm.s 			page 14
+ARM GAS  /tmp/ccL45xPJ.s 			page 14
 
 
  742 03ca 0A       		.uleb128 0xa
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  796 0433 07       		.uleb128 0x7
  797 0434 C3030000 		.4byte	.LASF66
  798 0438 0A       		.byte	0xa
-ARM GAS  /tmp/ccuocemm.s 			page 15
+ARM GAS  /tmp/ccL45xPJ.s 			page 15
 
 
  799 0439 59       		.byte	0x59
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  853 04a5 6D020000 		.4byte	0x26d
  854 04a9 08       		.byte	0x8
  855 04aa 07       		.uleb128 0x7
-ARM GAS  /tmp/ccuocemm.s 			page 16
+ARM GAS  /tmp/ccL45xPJ.s 			page 16
 
 
  856 04ab 6E040000 		.4byte	.LASF77
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  910 0517 0C       		.byte	0xc
  911 0518 25       		.byte	0x25
  912 0519 F6050000 		.4byte	0x5f6
-ARM GAS  /tmp/ccuocemm.s 			page 17
+ARM GAS  /tmp/ccL45xPJ.s 			page 17
 
 
  913 051d 07       		.uleb128 0x7
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  967 0589 07       		.uleb128 0x7
  968 058a F6030000 		.4byte	.LASF92
  969 058e 0C       		.byte	0xc
-ARM GAS  /tmp/ccuocemm.s 			page 18
+ARM GAS  /tmp/ccL45xPJ.s 			page 18
 
 
  970 058f 2F       		.byte	0x2f
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1024 05fb 06060000 		.4byte	0x606
  1025 05ff 15       		.uleb128 0x15
  1026 0600 53030000 		.4byte	0x353
-ARM GAS  /tmp/ccuocemm.s 			page 19
+ARM GAS  /tmp/ccL45xPJ.s 			page 19
 
 
  1027 0604 03       		.byte	0x3
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1081 0681 7B       		.byte	0x7b
  1082 0682 CA000000 		.4byte	0xca
  1083 0686 01       		.uleb128 0x1
-ARM GAS  /tmp/ccuocemm.s 			page 20
+ARM GAS  /tmp/ccL45xPJ.s 			page 20
 
 
  1084 0687 53       		.byte	0x53
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1138 06f2 01       		.byte	0x1
  1139 06f3 66       		.byte	0x66
  1140 06f4 CA000000 		.4byte	0xca
-ARM GAS  /tmp/ccuocemm.s 			page 21
+ARM GAS  /tmp/ccL45xPJ.s 			page 21
 
 
  1141 06f8 01       		.uleb128 0x1
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1195 0769 42000000 		.4byte	.LLST0
  1196 076d 17       		.uleb128 0x17
  1197 076e 6D736700 		.ascii	"msg\000"
-ARM GAS  /tmp/ccuocemm.s 			page 22
+ARM GAS  /tmp/ccL45xPJ.s 			page 22
 
 
  1198 0772 01       		.byte	0x1
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1252 07f3 01       		.uleb128 0x1
  1253 07f4 50       		.byte	0x50
  1254 07f5 01       		.uleb128 0x1
-ARM GAS  /tmp/ccuocemm.s 			page 23
+ARM GAS  /tmp/ccL45xPJ.s 			page 23
 
 
  1255 07f6 3A       		.byte	0x3a
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1309 0866 29       		.uleb128 0x29
  1310 0867 62040000 		.4byte	.LASF108
  1311 086b 62040000 		.4byte	.LASF108
-ARM GAS  /tmp/ccuocemm.s 			page 24
+ARM GAS  /tmp/ccL45xPJ.s 			page 24
 
 
  1312 086f 0A       		.byte	0xa
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1366 0031 0B       		.uleb128 0xb
  1367 0032 49       		.uleb128 0x49
  1368 0033 13       		.uleb128 0x13
-ARM GAS  /tmp/ccuocemm.s 			page 25
+ARM GAS  /tmp/ccL45xPJ.s 			page 25
 
 
  1369 0034 00       		.byte	0
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1423 006a 09       		.uleb128 0x9
  1424 006b 13       		.uleb128 0x13
  1425 006c 01       		.byte	0x1
-ARM GAS  /tmp/ccuocemm.s 			page 26
+ARM GAS  /tmp/ccL45xPJ.s 			page 26
 
 
  1426 006d 0B       		.uleb128 0xb
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1480 00a3 00       		.byte	0
  1481 00a4 00       		.byte	0
  1482 00a5 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccuocemm.s 			page 27
+ARM GAS  /tmp/ccL45xPJ.s 			page 27
 
 
  1483 00a6 15       		.uleb128 0x15
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1537 00dc 49       		.uleb128 0x49
  1538 00dd 13       		.uleb128 0x13
  1539 00de 00       		.byte	0
-ARM GAS  /tmp/ccuocemm.s 			page 28
+ARM GAS  /tmp/ccL45xPJ.s 			page 28
 
 
  1540 00df 00       		.byte	0
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1594 0116 03       		.uleb128 0x3
  1595 0117 08       		.uleb128 0x8
  1596 0118 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccuocemm.s 			page 29
+ARM GAS  /tmp/ccL45xPJ.s 			page 29
 
 
  1597 0119 0B       		.uleb128 0xb
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1651 0154 2E       		.uleb128 0x2e
  1652 0155 01       		.byte	0x1
  1653 0156 3F       		.uleb128 0x3f
-ARM GAS  /tmp/ccuocemm.s 			page 30
+ARM GAS  /tmp/ccL45xPJ.s 			page 30
 
 
  1654 0157 19       		.uleb128 0x19
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1708 018e 58       		.uleb128 0x58
  1709 018f 0B       		.uleb128 0xb
  1710 0190 59       		.uleb128 0x59
-ARM GAS  /tmp/ccuocemm.s 			page 31
+ARM GAS  /tmp/ccL45xPJ.s 			page 31
 
 
  1711 0191 0B       		.uleb128 0xb
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1765 01cb 00       		.byte	0
  1766 01cc 26       		.uleb128 0x26
  1767 01cd 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccuocemm.s 			page 32
+ARM GAS  /tmp/ccL45xPJ.s 			page 32
 
 
  1768 01ce 01       		.byte	0x1
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1822 0204 6E       		.uleb128 0x6e
  1823 0205 0E       		.uleb128 0xe
  1824 0206 03       		.uleb128 0x3
-ARM GAS  /tmp/ccuocemm.s 			page 33
+ARM GAS  /tmp/ccL45xPJ.s 			page 33
 
 
  1825 0207 0E       		.uleb128 0xe
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1879 0069 40000000 		.4byte	.LFE7
  1880 006d 0300     		.2byte	0x3
  1881 006f 75       		.byte	0x75
-ARM GAS  /tmp/ccuocemm.s 			page 34
+ARM GAS  /tmp/ccL45xPJ.s 			page 34
 
 
  1882 0070 54       		.sleb128 -44
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1936 000e 0000     		.2byte	0
  1937 0010 00000000 		.4byte	.LFB7
  1938 0014 40000000 		.4byte	.LFE7-.LFB7
-ARM GAS  /tmp/ccuocemm.s 			page 35
+ARM GAS  /tmp/ccL45xPJ.s 			page 35
 
 
  1939 0018 00000000 		.4byte	.LFB8
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  1980      6F732F4C 
  1980      50433137 
  1980      363600
-ARM GAS  /tmp/ccuocemm.s 			page 36
+ARM GAS  /tmp/ccL45xPJ.s 			page 36
 
 
  1981              	.LASF44:
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2007              	.LASF95:
  2008 00e4 63665F6F 		.ascii	"cf_off_stklimit\000"
  2008      66665F73 
-ARM GAS  /tmp/ccuocemm.s 			page 37
+ARM GAS  /tmp/ccL45xPJ.s 			page 37
 
 
  2008      746B6C69 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2036 0176 76745F70 		.ascii	"vt_prev\000"
  2036      72657600 
  2037              	.LASF0:
-ARM GAS  /tmp/ccuocemm.s 			page 38
+ARM GAS  /tmp/ccL45xPJ.s 			page 38
 
 
  2038 017e 756E7369 		.ascii	"unsigned int\000"
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2064 020e 54687265 		.ascii	"ThreadsList\000"
  2064      6164734C 
  2064      69737400 
-ARM GAS  /tmp/ccuocemm.s 			page 39
+ARM GAS  /tmp/ccL45xPJ.s 			page 39
 
 
  2065              	.LASF27:
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2090 0313 705F6F6C 		.ascii	"p_older\000"
  2090      64657200 
  2091              	.LASF67:
-ARM GAS  /tmp/ccuocemm.s 			page 40
+ARM GAS  /tmp/ccL45xPJ.s 			page 40
 
 
  2092 031b 725F6374 		.ascii	"r_ctx\000"
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2122 03a5 705F7374 		.ascii	"p_state\000"
  2122      61746500 
  2123              	.LASF40:
-ARM GAS  /tmp/ccuocemm.s 			page 41
+ARM GAS  /tmp/ccL45xPJ.s 			page 41
 
 
  2124 03ad 705F7072 		.ascii	"p_preempt\000"
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2152      75616C54 
  2152      696D6572 
  2152      00
-ARM GAS  /tmp/ccuocemm.s 			page 42
+ARM GAS  /tmp/ccL45xPJ.s 			page 42
 
 
  2153              	.LASF82:
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2182      736700
  2183              	.LASF39:
  2184 04d3 705F7265 		.ascii	"p_refs\000"
-ARM GAS  /tmp/ccuocemm.s 			page 43
+ARM GAS  /tmp/ccL45xPJ.s 			page 43
 
 
  2184      667300
@@ -2566,19 +2566,19 @@ ARM GAS  /tmp/ccuocemm.s 			page 1
  2208      6974696E 
  2208      6700
  2209              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccuocemm.s 			page 44
+ARM GAS  /tmp/ccL45xPJ.s 			page 44
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chmsg.c
-     /tmp/ccuocemm.s:16     .text.chMsgSend:0000000000000000 $t
-     /tmp/ccuocemm.s:24     .text.chMsgSend:0000000000000000 chMsgSend
-     /tmp/ccuocemm.s:111    .text.chMsgSend:000000000000003c $d
-     /tmp/ccuocemm.s:116    .text.chMsgWait:0000000000000000 $t
-     /tmp/ccuocemm.s:124    .text.chMsgWait:0000000000000000 chMsgWait
-     /tmp/ccuocemm.s:201    .text.chMsgWait:0000000000000038 $d
-     /tmp/ccuocemm.s:206    .text.chMsgRelease:0000000000000000 $t
-     /tmp/ccuocemm.s:214    .text.chMsgRelease:0000000000000000 chMsgRelease
+     /tmp/ccL45xPJ.s:16     .text.chMsgSend:0000000000000000 $t
+     /tmp/ccL45xPJ.s:24     .text.chMsgSend:0000000000000000 chMsgSend
+     /tmp/ccL45xPJ.s:111    .text.chMsgSend:000000000000003c $d
+     /tmp/ccL45xPJ.s:116    .text.chMsgWait:0000000000000000 $t
+     /tmp/ccL45xPJ.s:124    .text.chMsgWait:0000000000000000 chMsgWait
+     /tmp/ccL45xPJ.s:201    .text.chMsgWait:0000000000000038 $d
+     /tmp/ccL45xPJ.s:206    .text.chMsgRelease:0000000000000000 $t
+     /tmp/ccL45xPJ.s:214    .text.chMsgRelease:0000000000000000 chMsgRelease
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccNO7Bom.s 			page 1
+ARM GAS  /tmp/ccBkeeSM.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
   55              		.thumb
   56              		.thumb_func
   57              		.fpu softvfp
-ARM GAS  /tmp/ccNO7Bom.s 			page 2
+ARM GAS  /tmp/ccBkeeSM.s 			page 2
 
 
   58              		.type	SVCallVector, %function
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  112              		@ args = 0, pretend = 0, frame = 0
  113              		@ frame_needed = 0, uses_anonymous_args = 0
  114              		.loc 1 114 0
-ARM GAS  /tmp/ccNO7Bom.s 			page 3
+ARM GAS  /tmp/ccBkeeSM.s 			page 3
 
 
  115 0000 0021     		movs	r1, #0
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  169              		.loc 1 141 0
  170              		.cfi_startproc
  171              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /tmp/ccNO7Bom.s 			page 4
+ARM GAS  /tmp/ccBkeeSM.s 			page 4
 
 
  172              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  226 0038 0122     		movhi	r2, #1
  227 003a 7AB1     		cbz	r2, .L11
  228              	.L14:
-ARM GAS  /tmp/ccNO7Bom.s 			page 5
+ARM GAS  /tmp/ccBkeeSM.s 			page 5
 
 
  229              		.loc 1 160 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  283              		.thumb
  284              		.thumb_func
  285              		.fpu softvfp
-ARM GAS  /tmp/ccNO7Bom.s 			page 6
+ARM GAS  /tmp/ccBkeeSM.s 			page 6
 
 
  286              		.type	SysTickVector, %function
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  340              	_port_switch:
  341              	.LFB12:
  342              		.loc 1 229 0
-ARM GAS  /tmp/ccNO7Bom.s 			page 7
+ARM GAS  /tmp/ccBkeeSM.s 			page 7
 
 
  343              		.cfi_startproc
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  397 0006 2846     		mov     r0, r5                                 
  398 0008 A047     		blx     r4                                     
  399 000a FFF7FEFF 		bl      chThdExit
-ARM GAS  /tmp/ccNO7Bom.s 			page 8
+ARM GAS  /tmp/ccBkeeSM.s 			page 8
 
 
  400              	@ 0 "" 2
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  454 0043 06       		.byte	0x6
  455 0044 EB000000 		.4byte	.LASF3
  456 0048 04       		.uleb128 0x4
-ARM GAS  /tmp/ccNO7Bom.s 			page 9
+ARM GAS  /tmp/ccBkeeSM.s 			page 9
 
 
  457 0049 5D000000 		.4byte	.LASF6
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  511 00b5 60010000 		.4byte	.LASF16
  512 00b9 03       		.byte	0x3
  513 00ba 24       		.byte	0x24
-ARM GAS  /tmp/ccNO7Bom.s 			page 10
+ARM GAS  /tmp/ccBkeeSM.s 			page 10
 
 
  514 00bb 61000000 		.4byte	0x61
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  568 0133 04       		.byte	0x4
  569 0134 2C       		.byte	0x2c
  570 0135 CA000000 		.4byte	0xca
-ARM GAS  /tmp/ccNO7Bom.s 			page 11
+ARM GAS  /tmp/ccBkeeSM.s 			page 11
 
 
  571 0139 04       		.uleb128 0x4
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  625 01a8 07       		.uleb128 0x7
  626 01a9 EA050000 		.4byte	.LASF36
  627 01ad 06       		.byte	0x6
-ARM GAS  /tmp/ccNO7Bom.s 			page 12
+ARM GAS  /tmp/ccBkeeSM.s 			page 12
 
 
  628 01ae 67       		.byte	0x67
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  682 021a BC       		.byte	0xbc
  683 021b 23010000 		.4byte	0x123
  684 021f 34       		.byte	0x34
-ARM GAS  /tmp/ccNO7Bom.s 			page 13
+ARM GAS  /tmp/ccBkeeSM.s 			page 13
 
 
  685 0220 07       		.uleb128 0x7
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  739 0286 64       		.byte	0x64
  740 0287 98020000 		.4byte	0x298
  741 028b 07       		.uleb128 0x7
-ARM GAS  /tmp/ccNO7Bom.s 			page 14
+ARM GAS  /tmp/ccBkeeSM.s 			page 14
 
 
  742 028c A4040000 		.4byte	.LASF30
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  796 02f4 72313200 		.ascii	"r12\000"
  797 02f8 07       		.byte	0x7
  798 02f9 EB       		.byte	0xeb
-ARM GAS  /tmp/ccNO7Bom.s 			page 15
+ARM GAS  /tmp/ccBkeeSM.s 			page 15
 
 
  799 02fa A3020000 		.4byte	0x2a3
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  853 0365 1C01     		.2byte	0x11c
  854 0367 A3020000 		.4byte	0x2a3
  855 036b 10       		.byte	0x10
-ARM GAS  /tmp/ccNO7Bom.s 			page 16
+ARM GAS  /tmp/ccBkeeSM.s 			page 16
 
 
  856 036c 0D       		.uleb128 0xd
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  910 03d6 D7040000 		.4byte	0x4d7
  911 03da 07       		.uleb128 0x7
  912 03db C5000000 		.4byte	.LASF60
-ARM GAS  /tmp/ccNO7Bom.s 			page 17
+ARM GAS  /tmp/ccBkeeSM.s 			page 17
 
 
  913 03df 08       		.byte	0x8
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  967 044b 08       		.byte	0x8
  968 044c 8C       		.byte	0x8c
  969 044d C0030000 		.4byte	0x3c0
-ARM GAS  /tmp/ccNO7Bom.s 			page 18
+ARM GAS  /tmp/ccBkeeSM.s 			page 18
 
 
  970 0451 2C       		.byte	0x2c
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1024 04bd 60       		.byte	0x60
  1025 04be 07       		.uleb128 0x7
  1026 04bf 03050000 		.4byte	.LASF73
-ARM GAS  /tmp/ccNO7Bom.s 			page 19
+ARM GAS  /tmp/ccBkeeSM.s 			page 19
 
 
  1027 04c3 08       		.byte	0x8
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1081 053b 09       		.byte	0x9
  1082 053c 51       		.byte	0x51
  1083 053d 41050000 		.4byte	0x541
-ARM GAS  /tmp/ccNO7Bom.s 			page 20
+ARM GAS  /tmp/ccBkeeSM.s 			page 20
 
 
  1084 0541 0A       		.uleb128 0xa
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1138 05ad 10       		.byte	0x10
  1139 05ae 09       		.byte	0x9
  1140 05af 6F       		.byte	0x6f
-ARM GAS  /tmp/ccNO7Bom.s 			page 21
+ARM GAS  /tmp/ccBkeeSM.s 			page 21
 
 
  1141 05b0 E5050000 		.4byte	0x5e5
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1195 061c D0030000 		.4byte	.LASF87
  1196 0620 0A       		.byte	0xa
  1197 0621 5B       		.byte	0x5b
-ARM GAS  /tmp/ccNO7Bom.s 			page 22
+ARM GAS  /tmp/ccBkeeSM.s 			page 22
 
 
  1198 0622 9F030000 		.4byte	0x39f
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1252 0691 0C       		.byte	0xc
  1253 0692 00       		.byte	0
  1254 0693 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccNO7Bom.s 			page 23
+ARM GAS  /tmp/ccBkeeSM.s 			page 23
 
 
  1255 0694 04       		.byte	0x4
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1309 0700 D2070000 		.4byte	0x7d2
  1310 0704 00       		.byte	0
  1311 0705 07       		.uleb128 0x7
-ARM GAS  /tmp/ccNO7Bom.s 			page 24
+ARM GAS  /tmp/ccBkeeSM.s 			page 24
 
 
  1312 0706 F3020000 		.4byte	.LASF104
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1366 0772 FE010000 		.4byte	.LASF113
  1367 0776 0C       		.byte	0xc
  1368 0777 30       		.byte	0x30
-ARM GAS  /tmp/ccNO7Bom.s 			page 25
+ARM GAS  /tmp/ccBkeeSM.s 			page 25
 
 
  1369 0778 A9000000 		.4byte	0xa9
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1423 07e7 0C       		.byte	0xc
  1424 07e8 3A       		.byte	0x3a
  1425 07e9 F1060000 		.4byte	0x6f1
-ARM GAS  /tmp/ccNO7Bom.s 			page 26
+ARM GAS  /tmp/ccBkeeSM.s 			page 26
 
 
  1426 07ed 15       		.uleb128 0x15
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1480 0865 01       		.uleb128 0x1
  1481 0866 50       		.byte	0x50
  1482 0867 19       		.uleb128 0x19
-ARM GAS  /tmp/ccNO7Bom.s 			page 27
+ARM GAS  /tmp/ccBkeeSM.s 			page 27
 
 
  1483 0868 6F747000 		.ascii	"otp\000"
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1537 08d7 D8050000 		.4byte	.LASF128
  1538 08db 01       		.byte	0x1
  1539 08dc 6F       		.byte	0x6f
-ARM GAS  /tmp/ccNO7Bom.s 			page 28
+ARM GAS  /tmp/ccBkeeSM.s 			page 28
 
 
  1540 08dd 00000000 		.4byte	.LFB9
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1594 0935 37010000 		.4byte	.LASF129
  1595 0939 01       		.byte	0x1
  1596 093a 3A       		.byte	0x3a
-ARM GAS  /tmp/ccNO7Bom.s 			page 29
+ARM GAS  /tmp/ccBkeeSM.s 			page 29
 
 
  1597 093b 00000000 		.4byte	.LFB8
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1651 09b9 53       		.byte	0x53
  1652 09ba 00       		.byte	0
  1653 09bb 1A       		.uleb128 0x1a
-ARM GAS  /tmp/ccNO7Bom.s 			page 30
+ARM GAS  /tmp/ccBkeeSM.s 			page 30
 
 
  1654 09bc 0C000000 		.4byte	.LVL12
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1708              		.section	.debug_abbrev,"",%progbits
  1709              	.Ldebug_abbrev0:
  1710 0000 01       		.uleb128 0x1
-ARM GAS  /tmp/ccNO7Bom.s 			page 31
+ARM GAS  /tmp/ccBkeeSM.s 			page 31
 
 
  1711 0001 11       		.uleb128 0x11
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1765 0037 35       		.uleb128 0x35
  1766 0038 00       		.byte	0
  1767 0039 49       		.uleb128 0x49
-ARM GAS  /tmp/ccNO7Bom.s 			page 32
+ARM GAS  /tmp/ccBkeeSM.s 			page 32
 
 
  1768 003a 13       		.uleb128 0x13
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1822 0070 0B       		.uleb128 0xb
  1823 0071 3B       		.uleb128 0x3b
  1824 0072 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccNO7Bom.s 			page 33
+ARM GAS  /tmp/ccBkeeSM.s 			page 33
 
 
  1825 0073 01       		.uleb128 0x1
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1879 00a9 13       		.uleb128 0x13
  1880 00aa 01       		.uleb128 0x1
  1881 00ab 13       		.uleb128 0x13
-ARM GAS  /tmp/ccNO7Bom.s 			page 34
+ARM GAS  /tmp/ccBkeeSM.s 			page 34
 
 
  1882 00ac 00       		.byte	0
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1936 00e2 13       		.uleb128 0x13
  1937 00e3 00       		.byte	0
  1938 00e4 00       		.byte	0
-ARM GAS  /tmp/ccNO7Bom.s 			page 35
+ARM GAS  /tmp/ccBkeeSM.s 			page 35
 
 
  1939 00e5 14       		.uleb128 0x14
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  1993 011c 18       		.uleb128 0x18
  1994 011d 34       		.uleb128 0x34
  1995 011e 00       		.byte	0
-ARM GAS  /tmp/ccNO7Bom.s 			page 36
+ARM GAS  /tmp/ccBkeeSM.s 			page 36
 
 
  1996 011f 03       		.uleb128 0x3
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2050 0157 00       		.byte	0
  2051 0158 1C       		.uleb128 0x1c
  2052 0159 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccNO7Bom.s 			page 37
+ARM GAS  /tmp/ccBkeeSM.s 			page 37
 
 
  2053 015a 01       		.byte	0x1
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2107 0195 00       		.byte	0
  2108 0196 00       		.byte	0
  2109 0197 22       		.uleb128 0x22
-ARM GAS  /tmp/ccNO7Bom.s 			page 38
+ARM GAS  /tmp/ccBkeeSM.s 			page 38
 
 
  2110 0198 898201   		.uleb128 0x4109
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2164 01d4 12       		.uleb128 0x12
  2165 01d5 06       		.uleb128 0x6
  2166 01d6 40       		.uleb128 0x40
-ARM GAS  /tmp/ccNO7Bom.s 			page 39
+ARM GAS  /tmp/ccBkeeSM.s 			page 39
 
 
  2167 01d7 18       		.uleb128 0x18
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2221 020e 3F       		.uleb128 0x3f
  2222 020f 19       		.uleb128 0x19
  2223 0210 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccNO7Bom.s 			page 40
+ARM GAS  /tmp/ccBkeeSM.s 			page 40
 
 
  2224 0211 19       		.uleb128 0x19
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2278 0004 0200     		.2byte	0x2
  2279 0006 00000000 		.4byte	.Ldebug_info0
  2280 000a 04       		.byte	0x4
-ARM GAS  /tmp/ccNO7Bom.s 			page 41
+ARM GAS  /tmp/ccBkeeSM.s 			page 41
 
 
  2281 000b 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2328      752F4172 
  2328      6F6B2D47 
  2329 0033 2D4C5043 		.ascii	"-LPC/demos/LPC1766\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 42
+ARM GAS  /tmp/ccBkeeSM.s 			page 42
 
 
  2329      2F64656D 
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2355 00cb 705F7072 		.ascii	"p_prio\000"
  2355      696F00
  2356              	.LASF83:
-ARM GAS  /tmp/ccNO7Bom.s 			page 43
+ARM GAS  /tmp/ccBkeeSM.s 			page 43
 
 
  2357 00d2 76745F73 		.ascii	"vt_systime\000"
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2381      00
  2382              	.LASF121:
  2383 0169 63686465 		.ascii	"chdebug_t\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 44
+ARM GAS  /tmp/ccBkeeSM.s 			page 44
 
 
  2383      6275675F 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2409      00
  2410              	.LASF125:
  2411 020b 5F706F72 		.ascii	"_port_switch\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 45
+ARM GAS  /tmp/ccBkeeSM.s 			page 45
 
 
  2411      745F7377 
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2437 029c 44465352 		.ascii	"DFSR\000"
  2437      00
  2438              	.LASF88:
-ARM GAS  /tmp/ccNO7Bom.s 			page 46
+ARM GAS  /tmp/ccBkeeSM.s 			page 46
 
 
  2439 02a1 725F6E65 		.ascii	"r_newer\000"
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2463      202D6664 
  2464              	.LASF59:
  2465 03a2 73697A65 		.ascii	"sizetype\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 47
+ARM GAS  /tmp/ccBkeeSM.s 			page 47
 
 
  2465      74797065 
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2495 042e 705F7072 		.ascii	"p_prev\000"
  2495      657600
  2496              	.LASF25:
-ARM GAS  /tmp/ccNO7Bom.s 			page 48
+ARM GAS  /tmp/ccBkeeSM.s 			page 48
 
 
  2497 0435 74707269 		.ascii	"tprio_t\000"
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2527      61677300 
  2528              	.LASF29:
  2529 04c2 54687265 		.ascii	"Thread\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 49
+ARM GAS  /tmp/ccBkeeSM.s 			page 49
 
 
  2529      616400
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2558              	.LASF9:
  2559 0566 5F5F696E 		.ascii	"__int32_t\000"
  2559      7433325F 
-ARM GAS  /tmp/ccNO7Bom.s 			page 50
+ARM GAS  /tmp/ccBkeeSM.s 			page 50
 
 
  2559      7400
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2591      6D6500
  2592              	.LASF106:
  2593 05f1 63685F76 		.ascii	"ch_version\000"
-ARM GAS  /tmp/ccNO7Bom.s 			page 51
+ARM GAS  /tmp/ccBkeeSM.s 			page 51
 
 
  2593      65727369 
@@ -3023,28 +3023,28 @@ ARM GAS  /tmp/ccNO7Bom.s 			page 1
  2605      6974696E 
  2605      6700
  2606              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccNO7Bom.s 			page 52
+ARM GAS  /tmp/ccBkeeSM.s 			page 52
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chcore_v7m.c
-     /tmp/ccNO7Bom.s:16     .text._port_switch_from_isr:0000000000000000 $t
-     /tmp/ccNO7Bom.s:24     .text._port_switch_from_isr:0000000000000000 _port_switch_from_isr
-     /tmp/ccNO7Bom.s:38     .text._port_switch_from_isr:0000000000000004 _port_exit_from_isr
-     /tmp/ccNO7Bom.s:51     .text.SVCallVector:0000000000000000 $t
-     /tmp/ccNO7Bom.s:59     .text.SVCallVector:0000000000000000 SVCallVector
-     /tmp/ccNO7Bom.s:100    .text._port_init:0000000000000000 $t
-     /tmp/ccNO7Bom.s:108    .text._port_init:0000000000000000 _port_init
-     /tmp/ccNO7Bom.s:153    .text._port_init:000000000000002c $d
-     /tmp/ccNO7Bom.s:159    .text._port_irq_epilogue:0000000000000000 $t
-     /tmp/ccNO7Bom.s:167    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
-     /tmp/ccNO7Bom.s:269    .text._port_irq_epilogue:0000000000000064 $d
-     /tmp/ccNO7Bom.s:279    .text.SysTickVector:0000000000000000 $t
-     /tmp/ccNO7Bom.s:287    .text.SysTickVector:0000000000000000 SysTickVector
-     /tmp/ccNO7Bom.s:332    .text._port_switch:0000000000000000 $t
-     /tmp/ccNO7Bom.s:340    .text._port_switch:0000000000000000 _port_switch
-     /tmp/ccNO7Bom.s:369    .text._port_thread_start:0000000000000000 $t
-     /tmp/ccNO7Bom.s:377    .text._port_thread_start:0000000000000000 _port_thread_start
+     /tmp/ccBkeeSM.s:16     .text._port_switch_from_isr:0000000000000000 $t
+     /tmp/ccBkeeSM.s:24     .text._port_switch_from_isr:0000000000000000 _port_switch_from_isr
+     /tmp/ccBkeeSM.s:38     .text._port_switch_from_isr:0000000000000004 _port_exit_from_isr
+     /tmp/ccBkeeSM.s:51     .text.SVCallVector:0000000000000000 $t
+     /tmp/ccBkeeSM.s:59     .text.SVCallVector:0000000000000000 SVCallVector
+     /tmp/ccBkeeSM.s:100    .text._port_init:0000000000000000 $t
+     /tmp/ccBkeeSM.s:108    .text._port_init:0000000000000000 _port_init
+     /tmp/ccBkeeSM.s:153    .text._port_init:000000000000002c $d
+     /tmp/ccBkeeSM.s:159    .text._port_irq_epilogue:0000000000000000 $t
+     /tmp/ccBkeeSM.s:167    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
+     /tmp/ccBkeeSM.s:269    .text._port_irq_epilogue:0000000000000064 $d
+     /tmp/ccBkeeSM.s:279    .text.SysTickVector:0000000000000000 $t
+     /tmp/ccBkeeSM.s:287    .text.SysTickVector:0000000000000000 SysTickVector
+     /tmp/ccBkeeSM.s:332    .text._port_switch:0000000000000000 $t
+     /tmp/ccBkeeSM.s:340    .text._port_switch:0000000000000000 _port_switch
+     /tmp/ccBkeeSM.s:369    .text._port_thread_start:0000000000000000 $t
+     /tmp/ccBkeeSM.s:377    .text._port_thread_start:0000000000000000 _port_thread_start
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

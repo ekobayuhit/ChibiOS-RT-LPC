@@ -39,9 +39,9 @@ build/obj/can.o: ../../os/hal/src/can.c ../../os/kernel/include/ch.h \
  ../../os/hal/include/mac.h ../../os/hal/include/pwm.h \
  ../../os/hal/include/rtc.h ../../os/hal/include/serial.h \
  ../../os/hal/platforms/LPC17xx/serial_lld.h ../../os/hal/include/sdc.h \
- ../../os/hal/include/spi.h ../../os/hal/include/uart.h \
- ../../os/hal/include/usb.h ../../os/hal/include/mmc_spi.h \
- ../../os/hal/include/serial_usb.h
+ ../../os/hal/include/spi.h ../../os/hal/platforms/LPC17xx/spi_lld.h \
+ ../../os/hal/include/uart.h ../../os/hal/include/usb.h \
+ ../../os/hal/include/mmc_spi.h ../../os/hal/include/serial_usb.h
 
 ../../os/kernel/include/ch.h:
 
@@ -182,6 +182,8 @@ mcuconf.h:
 ../../os/hal/include/sdc.h:
 
 ../../os/hal/include/spi.h:
+
+../../os/hal/platforms/LPC17xx/spi_lld.h:
 
 ../../os/hal/include/uart.h:
 

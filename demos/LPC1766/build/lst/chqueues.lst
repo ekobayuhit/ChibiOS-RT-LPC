@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccSnyb1l.s 			page 1
+ARM GAS  /tmp/ccdOtOWR.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
   55              		.loc 2 49 0
   56 0014 5360     		str	r3, [r2, #4]
   57 0016 2360     		str	r3, [r4]
-ARM GAS  /tmp/ccSnyb1l.s 			page 2
+ARM GAS  /tmp/ccdOtOWR.s 			page 2
 
 
   58              	.LVL3:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  112              		.loc 1 94 0
  113 000c 0261     		str	r2, [r0, #16]
  114              		.loc 1 91 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 3
+ARM GAS  /tmp/ccdOtOWR.s 			page 3
 
 
  115 000e 4060     		str	r0, [r0, #4]
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  169 000e 6361     		str	r3, [r4, #20]
  170 0010 A361     		str	r3, [r4, #24]
  171              		.loc 1 116 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 4
+ARM GAS  /tmp/ccdOtOWR.s 			page 4
 
 
  172 0012 0AD0     		beq	.L11
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  226              		.cfi_offset 14, -4
  227              		.loc 1 140 0
  228 000c 0133     		adds	r3, r3, #1
-ARM GAS  /tmp/ccSnyb1l.s 			page 5
+ARM GAS  /tmp/ccdOtOWR.s 			page 5
 
 
  229              		.loc 1 141 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  283 0040 4361     		str	r3, [r0, #20]
  284              		.loc 1 145 0
  285 0042 EFD1     		bne	.L29
-ARM GAS  /tmp/ccSnyb1l.s 			page 6
+ARM GAS  /tmp/ccdOtOWR.s 			page 6
 
 
  286              	.L24:
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  340              	@ 0 "" 2
  341              		.thumb
  342              		.syntax unified
-ARM GAS  /tmp/ccSnyb1l.s 			page 7
+ARM GAS  /tmp/ccdOtOWR.s 			page 7
 
 
  343              	.LBE21:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  397 0042 83F31188 		msr     BASEPRI, r3
  398              	@ 0 "" 2
  399              		.thumb
-ARM GAS  /tmp/ccSnyb1l.s 			page 8
+ARM GAS  /tmp/ccdOtOWR.s 			page 8
 
 
  400              		.syntax unified
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  454              	.LVL33:
  455              	.L47:
  456              		.loc 1 228 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 9
+ARM GAS  /tmp/ccdOtOWR.s 			page 9
 
 
  457 0018 B8F1000F 		cmp	r8, #0
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  511 0058 BA45     		cmp	r10, r7
  512 005a 06D0     		beq	.L41
  513              	.LBB26:
-ARM GAS  /tmp/ccSnyb1l.s 			page 10
+ARM GAS  /tmp/ccdOtOWR.s 			page 10
 
 
  514              		.loc 1 248 0
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  568              		.loc 1 274 0
  569 0004 8D18     		adds	r5, r1, r2
  570 0006 0561     		str	r5, [r0, #16]
-ARM GAS  /tmp/ccSnyb1l.s 			page 11
+ARM GAS  /tmp/ccdOtOWR.s 			page 11
 
 
  571              		.loc 1 276 0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  625              		.loc 1 295 0
  626 000a 9B1A     		subs	r3, r3, r2
  627              		.loc 1 296 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 12
+ARM GAS  /tmp/ccdOtOWR.s 			page 12
 
 
  628 000c 8442     		cmp	r4, r0
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  682              		.cfi_offset 5, -16
  683              		.cfi_offset 6, -12
  684              		.cfi_offset 7, -8
-ARM GAS  /tmp/ccSnyb1l.s 			page 13
+ARM GAS  /tmp/ccdOtOWR.s 			page 13
 
 
  685              		.cfi_offset 14, -4
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  739 003a E369     		ldr	r3, [r4, #28]
  740 003c 0BB1     		cbz	r3, .L68
  741              		.loc 1 340 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 14
+ARM GAS  /tmp/ccdOtOWR.s 			page 14
 
 
  742 003e 2046     		mov	r0, r4
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  796              		.cfi_def_cfa_offset 16
  797              		.cfi_offset 3, -16
  798              		.cfi_offset 4, -12
-ARM GAS  /tmp/ccSnyb1l.s 			page 15
+ARM GAS  /tmp/ccdOtOWR.s 			page 15
 
 
  799              		.cfi_offset 5, -8
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  853              	.L79:
  854              		.loc 1 372 0
  855 0034 2046     		mov	r0, r4
-ARM GAS  /tmp/ccSnyb1l.s 			page 16
+ARM GAS  /tmp/ccdOtOWR.s 			page 16
 
 
  856 0036 38BD     		pop	{r3, r4, r5, pc}
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  910              	.LVL63:
  911              	.LBB39:
  912              		.loc 1 406 0
-ARM GAS  /tmp/ccSnyb1l.s 			page 17
+ARM GAS  /tmp/ccdOtOWR.s 			page 17
 
 
  913 0010 4023     		movs	r3, #64
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  967              	@ 0 "" 2
  968              		.thumb
  969              		.syntax unified
-ARM GAS  /tmp/ccSnyb1l.s 			page 18
+ARM GAS  /tmp/ccdOtOWR.s 			page 18
 
 
  970              	.LBE40:
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1024 007c BDE8F88F 		pop	{r3, r4, r5, r6, r7, r8, r9, r10, fp, pc}
  1025              		.cfi_endproc
  1026              	.LFE17:
-ARM GAS  /tmp/ccSnyb1l.s 			page 19
+ARM GAS  /tmp/ccdOtOWR.s 			page 19
 
 
  1027              		.size	chOQWriteTimeout, .-chOQWriteTimeout
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1081 004f 1B010000 		.4byte	.LASF3
  1082 0053 03       		.uleb128 0x3
  1083 0054 9A000000 		.4byte	.LASF5
-ARM GAS  /tmp/ccSnyb1l.s 			page 20
+ARM GAS  /tmp/ccdOtOWR.s 			page 20
 
 
  1084 0058 04       		.byte	0x4
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1138 00c4 03       		.uleb128 0x3
  1139 00c5 98010000 		.4byte	.LASF17
  1140 00c9 05       		.byte	0x5
-ARM GAS  /tmp/ccSnyb1l.s 			page 21
+ARM GAS  /tmp/ccdOtOWR.s 			page 21
 
 
  1141 00ca 24       		.byte	0x24
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1195 013f 2A       		.byte	0x2a
  1196 0140 CF000000 		.4byte	0xcf
  1197 0144 03       		.uleb128 0x3
-ARM GAS  /tmp/ccSnyb1l.s 			page 22
+ARM GAS  /tmp/ccdOtOWR.s 			page 22
 
 
  1198 0145 A5020000 		.4byte	.LASF29
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1252 01b7 08       		.byte	0x8
  1253 01b8 60       		.byte	0x60
  1254 01b9 88020000 		.4byte	0x288
-ARM GAS  /tmp/ccSnyb1l.s 			page 23
+ARM GAS  /tmp/ccdOtOWR.s 			page 23
 
 
  1255 01bd 14       		.byte	0x14
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1309 0229 2C       		.byte	0x2c
  1310 022a 08       		.uleb128 0x8
  1311 022b 62000000 		.4byte	.LASF46
-ARM GAS  /tmp/ccSnyb1l.s 			page 24
+ARM GAS  /tmp/ccdOtOWR.s 			page 24
 
 
  1312 022f 08       		.byte	0x8
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1366 0295 67020000 		.4byte	0x267
  1367 0299 0A       		.uleb128 0xa
  1368 029a 04       		.byte	0x4
-ARM GAS  /tmp/ccSnyb1l.s 			page 25
+ARM GAS  /tmp/ccdOtOWR.s 			page 25
 
 
  1369 029b 07       		.byte	0x7
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1423 0307 1B01     		.2byte	0x11b
  1424 0309 B9020000 		.4byte	0x2b9
  1425 030d 0C       		.byte	0xc
-ARM GAS  /tmp/ccSnyb1l.s 			page 26
+ARM GAS  /tmp/ccdOtOWR.s 			page 26
 
 
  1426 030e 0E       		.uleb128 0xe
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1480 037b 51       		.byte	0x51
  1481 037c 80030000 		.4byte	0x380
  1482 0380 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccSnyb1l.s 			page 27
+ARM GAS  /tmp/ccdOtOWR.s 			page 27
 
 
  1483 0381 04       		.byte	0x4
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1537 03ed 0A       		.byte	0xa
  1538 03ee 6F       		.byte	0x6f
  1539 03ef 24040000 		.4byte	0x424
-ARM GAS  /tmp/ccSnyb1l.s 			page 28
+ARM GAS  /tmp/ccdOtOWR.s 			page 28
 
 
  1540 03f3 08       		.uleb128 0x8
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1594 045f 0B       		.byte	0xb
  1595 0460 5B       		.byte	0x5b
  1596 0461 4D030000 		.4byte	0x34d
-ARM GAS  /tmp/ccSnyb1l.s 			page 29
+ARM GAS  /tmp/ccdOtOWR.s 			page 29
 
 
  1597 0465 0C       		.byte	0xc
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1651 04d1 00       		.byte	0
  1652 04d2 0B       		.uleb128 0xb
  1653 04d3 04       		.byte	0x4
-ARM GAS  /tmp/ccSnyb1l.s 			page 30
+ARM GAS  /tmp/ccdOtOWR.s 			page 30
 
 
  1654 04d4 A1040000 		.4byte	0x4a1
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1708 0543 00       		.byte	0
  1709 0544 08       		.uleb128 0x8
  1710 0545 EB020000 		.4byte	.LASF86
-ARM GAS  /tmp/ccSnyb1l.s 			page 31
+ARM GAS  /tmp/ccdOtOWR.s 			page 31
 
 
  1711 0549 0D       		.byte	0xd
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1765 05b5 0D       		.byte	0xd
  1766 05b6 30       		.byte	0x30
  1767 05b7 B4000000 		.4byte	0xb4
-ARM GAS  /tmp/ccSnyb1l.s 			page 32
+ARM GAS  /tmp/ccdOtOWR.s 			page 32
 
 
  1768 05bb 0E       		.byte	0xe
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1822 0627 3A       		.byte	0x3a
  1823 0628 30050000 		.4byte	0x530
  1824 062c 05       		.uleb128 0x5
-ARM GAS  /tmp/ccSnyb1l.s 			page 33
+ARM GAS  /tmp/ccdOtOWR.s 			page 33
 
 
  1825 062d 21060000 		.4byte	0x621
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1879 069c BE050000 		.4byte	.LASF112
  1880 06a0 0E       		.byte	0xe
  1881 06a1 46       		.byte	0x46
-ARM GAS  /tmp/ccSnyb1l.s 			page 34
+ARM GAS  /tmp/ccdOtOWR.s 			page 34
 
 
  1882 06a2 B4060000 		.4byte	0x6b4
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1936 0714 DA020000 		.4byte	.LASF119
  1937 0718 01       		.byte	0x1
  1938 0719 8F01     		.2byte	0x18f
-ARM GAS  /tmp/ccSnyb1l.s 			page 35
+ARM GAS  /tmp/ccdOtOWR.s 			page 35
 
 
  1939 071b 2C000000 		.4byte	0x2c
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  1993 07a1 00       		.byte	0
  1994 07a2 1B       		.uleb128 0x1b
  1995 07a3 74000000 		.4byte	.LBB42
-ARM GAS  /tmp/ccSnyb1l.s 			page 36
+ARM GAS  /tmp/ccdOtOWR.s 			page 36
 
 
  1996 07a7 06000000 		.4byte	.LBE42-.LBB42
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2050 0816 01       		.uleb128 0x1
  2051 0817 51       		.byte	0x51
  2052 0818 02       		.uleb128 0x2
-ARM GAS  /tmp/ccSnyb1l.s 			page 37
+ARM GAS  /tmp/ccdOtOWR.s 			page 37
 
 
  2053 0819 7A       		.byte	0x7a
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2107 089a 39010000 		.4byte	0x139
  2108 089e 00000000 		.4byte	.LFB15
  2109 08a2 54000000 		.4byte	.LFE15-.LFB15
-ARM GAS  /tmp/ccSnyb1l.s 			page 38
+ARM GAS  /tmp/ccdOtOWR.s 			page 38
 
 
  2110 08a6 01       		.uleb128 0x1
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2164 092b 1E       		.uleb128 0x1e
  2165 092c 18000000 		.4byte	.LVL49
  2166 0930 190D0000 		.4byte	0xd19
-ARM GAS  /tmp/ccSnyb1l.s 			page 39
+ARM GAS  /tmp/ccdOtOWR.s 			page 39
 
 
  2167 0934 1D       		.uleb128 0x1d
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2221 099a 06000000 		.4byte	.LBE28-.LBB28
  2222 099e 01       		.byte	0x1
  2223 099f 2901     		.2byte	0x129
-ARM GAS  /tmp/ccSnyb1l.s 			page 40
+ARM GAS  /tmp/ccdOtOWR.s 			page 40
 
 
  2224 09a1 C2090000 		.4byte	0x9c2
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2278 0a1a DF010000 		.4byte	.LASF126
  2279 0a1e 01       		.byte	0x1
  2280 0a1f 0D01     		.2byte	0x10d
-ARM GAS  /tmp/ccSnyb1l.s 			page 41
+ARM GAS  /tmp/ccdOtOWR.s 			page 41
 
 
  2281 0a21 C4020000 		.4byte	0x2c4
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2335 0aa3 2E       		.uleb128 0x2e
  2336 0aa4 746D7000 		.ascii	"tmp\000"
  2337 0aa8 01       		.byte	0x1
-ARM GAS  /tmp/ccSnyb1l.s 			page 42
+ARM GAS  /tmp/ccdOtOWR.s 			page 42
 
 
  2338 0aa9 E2       		.byte	0xe2
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2392 0b1b 1D       		.uleb128 0x1d
  2393 0b1c 01       		.uleb128 0x1
  2394 0b1d 50       		.byte	0x50
-ARM GAS  /tmp/ccSnyb1l.s 			page 43
+ARM GAS  /tmp/ccdOtOWR.s 			page 43
 
 
  2395 0b1e 02       		.uleb128 0x2
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2449 0b8b 14000000 		.4byte	.LBB22
  2450 0b8f 0C000000 		.4byte	.LBE22-.LBB22
  2451 0b93 CE0B0000 		.4byte	0xbce
-ARM GAS  /tmp/ccSnyb1l.s 			page 44
+ARM GAS  /tmp/ccdOtOWR.s 			page 44
 
 
  2452 0b97 2F       		.uleb128 0x2f
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2506 0bf7 E4010000 		.4byte	.LASF129
  2507 0bfb 01       		.byte	0x1
  2508 0bfc 85       		.byte	0x85
-ARM GAS  /tmp/ccSnyb1l.s 			page 45
+ARM GAS  /tmp/ccdOtOWR.s 			page 45
 
 
  2509 0bfd 39010000 		.4byte	0x139
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2563 0c85 34       		.uleb128 0x34
  2564 0c86 8C0D0000 		.4byte	0xd8c
  2565 0c8a 18000000 		.4byte	.LBB14
-ARM GAS  /tmp/ccSnyb1l.s 			page 46
+ARM GAS  /tmp/ccdOtOWR.s 			page 46
 
 
  2566 0c8e 06000000 		.4byte	.LBE14-.LBB14
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2620 0d08 53       		.byte	0x53
  2621 0d09 2D       		.uleb128 0x2d
  2622 0d0a DF010000 		.4byte	.LASF126
-ARM GAS  /tmp/ccSnyb1l.s 			page 47
+ARM GAS  /tmp/ccdOtOWR.s 			page 47
 
 
  2623 0d0e 01       		.byte	0x1
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2677 0d88 01       		.uleb128 0x1
  2678 0d89 51       		.byte	0x51
  2679 0d8a 00       		.byte	0
-ARM GAS  /tmp/ccSnyb1l.s 			page 48
+ARM GAS  /tmp/ccdOtOWR.s 			page 48
 
 
  2680 0d8b 00       		.byte	0
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2734 0002 01       		.byte	0x1
  2735 0003 25       		.uleb128 0x25
  2736 0004 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccSnyb1l.s 			page 49
+ARM GAS  /tmp/ccdOtOWR.s 			page 49
 
 
  2737 0005 13       		.uleb128 0x13
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2791 003b 00       		.byte	0
  2792 003c 00       		.byte	0
  2793 003d 06       		.uleb128 0x6
-ARM GAS  /tmp/ccSnyb1l.s 			page 50
+ARM GAS  /tmp/ccdOtOWR.s 			page 50
 
 
  2794 003e 35       		.uleb128 0x35
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2848 0074 0B       		.uleb128 0xb
  2849 0075 0B       		.uleb128 0xb
  2850 0076 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccSnyb1l.s 			page 51
+ARM GAS  /tmp/ccdOtOWR.s 			page 51
 
 
  2851 0077 0B       		.uleb128 0xb
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2905 00ad 15       		.uleb128 0x15
  2906 00ae 01       		.byte	0x1
  2907 00af 27       		.uleb128 0x27
-ARM GAS  /tmp/ccSnyb1l.s 			page 52
+ARM GAS  /tmp/ccdOtOWR.s 			page 52
 
 
  2908 00b0 19       		.uleb128 0x19
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  2962 00e6 00       		.byte	0
  2963 00e7 14       		.uleb128 0x14
  2964 00e8 01       		.uleb128 0x1
-ARM GAS  /tmp/ccSnyb1l.s 			page 53
+ARM GAS  /tmp/ccdOtOWR.s 			page 53
 
 
  2965 00e9 01       		.byte	0x1
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3019 0120 02       		.uleb128 0x2
  3020 0121 17       		.uleb128 0x17
  3021 0122 00       		.byte	0
-ARM GAS  /tmp/ccSnyb1l.s 			page 54
+ARM GAS  /tmp/ccdOtOWR.s 			page 54
 
 
  3022 0123 00       		.byte	0
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3076 0159 13       		.uleb128 0x13
  3077 015a 00       		.byte	0
  3078 015b 00       		.byte	0
-ARM GAS  /tmp/ccSnyb1l.s 			page 55
+ARM GAS  /tmp/ccdOtOWR.s 			page 55
 
 
  3079 015c 1C       		.uleb128 0x1c
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3133 0199 0B       		.uleb128 0xb
  3134 019a 01       		.byte	0x1
  3135 019b 55       		.uleb128 0x55
-ARM GAS  /tmp/ccSnyb1l.s 			page 56
+ARM GAS  /tmp/ccdOtOWR.s 			page 56
 
 
  3136 019c 17       		.uleb128 0x17
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3190 01d6 40       		.uleb128 0x40
  3191 01d7 18       		.uleb128 0x18
  3192 01d8 9742     		.uleb128 0x2117
-ARM GAS  /tmp/ccSnyb1l.s 			page 57
+ARM GAS  /tmp/ccdOtOWR.s 			page 57
 
 
  3193 01da 19       		.uleb128 0x19
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3247 0210 05       		.uleb128 0x5
  3248 0211 49       		.uleb128 0x49
  3249 0212 13       		.uleb128 0x13
-ARM GAS  /tmp/ccSnyb1l.s 			page 58
+ARM GAS  /tmp/ccdOtOWR.s 			page 58
 
 
  3250 0213 02       		.uleb128 0x2
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3304 024a 0B       		.uleb128 0xb
  3305 024b 49       		.uleb128 0x49
  3306 024c 13       		.uleb128 0x13
-ARM GAS  /tmp/ccSnyb1l.s 			page 59
+ARM GAS  /tmp/ccdOtOWR.s 			page 59
 
 
  3307 024d 02       		.uleb128 0x2
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3361 0283 32       		.uleb128 0x32
  3362 0284 1D       		.uleb128 0x1d
  3363 0285 01       		.byte	0x1
-ARM GAS  /tmp/ccSnyb1l.s 			page 60
+ARM GAS  /tmp/ccdOtOWR.s 			page 60
 
 
  3364 0286 31       		.uleb128 0x31
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3418 02bd 00       		.byte	0
  3419 02be 00       		.byte	0
  3420 02bf 35       		.uleb128 0x35
-ARM GAS  /tmp/ccSnyb1l.s 			page 61
+ARM GAS  /tmp/ccdOtOWR.s 			page 61
 
 
  3421 02c0 05       		.uleb128 0x5
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3475 02f7 38       		.uleb128 0x38
  3476 02f8 898201   		.uleb128 0x4109
  3477 02fb 01       		.byte	0x1
-ARM GAS  /tmp/ccSnyb1l.s 			page 62
+ARM GAS  /tmp/ccdOtOWR.s 			page 62
 
 
  3478 02fc 11       		.uleb128 0x11
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3532 0333 13       		.uleb128 0x13
  3533 0334 00       		.byte	0
  3534 0335 00       		.byte	0
-ARM GAS  /tmp/ccSnyb1l.s 			page 63
+ARM GAS  /tmp/ccdOtOWR.s 			page 63
 
 
  3535 0336 3C       		.uleb128 0x3c
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3589              	.LLST36:
  3590 005d 00000000 		.4byte	.LVL62
  3591 0061 1A000000 		.4byte	.LVL65
-ARM GAS  /tmp/ccSnyb1l.s 			page 64
+ARM GAS  /tmp/ccdOtOWR.s 			page 64
 
 
  3592 0065 0100     		.2byte	0x1
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3646 00f1 01       		.uleb128 0x1
  3647 00f2 50       		.byte	0x50
  3648 00f3 9F       		.byte	0x9f
-ARM GAS  /tmp/ccSnyb1l.s 			page 65
+ARM GAS  /tmp/ccdOtOWR.s 			page 65
 
 
  3649 00f4 38000000 		.4byte	.LVL59
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3703 0182 01       		.uleb128 0x1
  3704 0183 51       		.byte	0x51
  3705 0184 9F       		.byte	0x9f
-ARM GAS  /tmp/ccSnyb1l.s 			page 66
+ARM GAS  /tmp/ccdOtOWR.s 			page 66
 
 
  3706 0185 00000000 		.4byte	0
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3760 0218 00       		.sleb128 0
  3761 0219 1A000000 		.4byte	.LVL41
  3762 021d 1C000000 		.4byte	.LFE13
-ARM GAS  /tmp/ccSnyb1l.s 			page 67
+ARM GAS  /tmp/ccdOtOWR.s 			page 67
 
 
  3763 0221 0200     		.2byte	0x2
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3817 02a4 00000000 		.4byte	.LVL30
  3818 02a8 12000000 		.4byte	.LVL32
  3819 02ac 0100     		.2byte	0x1
-ARM GAS  /tmp/ccSnyb1l.s 			page 68
+ARM GAS  /tmp/ccdOtOWR.s 			page 68
 
 
  3820 02ae 53       		.byte	0x53
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3874 033f 00000000 		.4byte	0
  3875              	.LLST9:
  3876 0343 00000000 		.4byte	.LVL14
-ARM GAS  /tmp/ccSnyb1l.s 			page 69
+ARM GAS  /tmp/ccdOtOWR.s 			page 69
 
 
  3877 0347 2A000000 		.4byte	.LVL17
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3931 03c5 00000000 		.4byte	0
  3932 03c9 00000000 		.4byte	0
  3933              	.LLST11:
-ARM GAS  /tmp/ccSnyb1l.s 			page 70
+ARM GAS  /tmp/ccdOtOWR.s 			page 70
 
 
  3934 03cd 26000000 		.4byte	.LVL15
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  3988 045c 1C000000 		.4byte	.LVL8
  3989 0460 0200     		.2byte	0x2
  3990 0462 91       		.byte	0x91
-ARM GAS  /tmp/ccSnyb1l.s 			page 71
+ARM GAS  /tmp/ccdOtOWR.s 			page 71
 
 
  3991 0463 00       		.sleb128 0
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4045 04e5 00000000 		.4byte	0
  4046              	.LLST2:
  4047 04e9 0E000000 		.4byte	.LVL2
-ARM GAS  /tmp/ccSnyb1l.s 			page 72
+ARM GAS  /tmp/ccdOtOWR.s 			page 72
 
 
  4048 04ed 18000000 		.4byte	.LVL3
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4102 0020 08000000 		.4byte	.LBB21
  4103 0024 0C000000 		.4byte	.LBE21
  4104 0028 00000000 		.4byte	0
-ARM GAS  /tmp/ccSnyb1l.s 			page 73
+ARM GAS  /tmp/ccdOtOWR.s 			page 73
 
 
  4105 002c 00000000 		.4byte	0
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4149              	.LASF137:
  4150 001c 2F686F6D 		.ascii	"/home/ekobayu/Arok-Gandring-Lokajaya/LPC/ChibiOS-RT"
  4150      652F656B 
-ARM GAS  /tmp/ccSnyb1l.s 			page 74
+ARM GAS  /tmp/ccdOtOWR.s 			page 74
 
 
  4150      6F626179 
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4177 00d8 63685F74 		.ascii	"ch_threadsize\000"
  4177      68726561 
  4177      6473697A 
-ARM GAS  /tmp/ccSnyb1l.s 			page 75
+ARM GAS  /tmp/ccdOtOWR.s 			page 75
 
 
  4177      6500
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4205      496E6974 
  4205      00
  4206              	.LASF11:
-ARM GAS  /tmp/ccSnyb1l.s 			page 76
+ARM GAS  /tmp/ccdOtOWR.s 			page 76
 
 
  4207 0174 6C6F6E67 		.ascii	"long int\000"
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4234              	.LASF60:
  4235 01fa 76745F6E 		.ascii	"vt_next\000"
  4235      65787400 
-ARM GAS  /tmp/ccSnyb1l.s 			page 77
+ARM GAS  /tmp/ccdOtOWR.s 			page 77
 
 
  4236              	.LASF130:
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4261      6164734C 
  4261      69737400 
  4262              	.LASF29:
-ARM GAS  /tmp/ccSnyb1l.s 			page 78
+ARM GAS  /tmp/ccdOtOWR.s 			page 78
 
 
  4263 02a5 6576656E 		.ascii	"eventmask_t\000"
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4285      00
  4286              	.LASF107:
  4287 03a3 715F636F 		.ascii	"q_counter\000"
-ARM GAS  /tmp/ccSnyb1l.s 			page 79
+ARM GAS  /tmp/ccdOtOWR.s 			page 79
 
 
  4287      756E7465 
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4317      6966795F 
  4317      7400
  4318              	.LASF33:
-ARM GAS  /tmp/ccSnyb1l.s 			page 80
+ARM GAS  /tmp/ccdOtOWR.s 			page 80
 
 
  4319 043b 705F7072 		.ascii	"p_prev\000"
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4349      707400
  4350              	.LASF40:
  4351 04cc 705F666C 		.ascii	"p_flags\000"
-ARM GAS  /tmp/ccSnyb1l.s 			page 81
+ARM GAS  /tmp/ccdOtOWR.s 			page 81
 
 
  4351      61677300 
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4379      696F00
  4380              	.LASF10:
  4381 0561 5F5F696E 		.ascii	"__int32_t\000"
-ARM GAS  /tmp/ccSnyb1l.s 			page 82
+ARM GAS  /tmp/ccdOtOWR.s 			page 82
 
 
  4381      7433325F 
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4413      79737469 
  4413      6D6500
  4414              	.LASF134:
-ARM GAS  /tmp/ccSnyb1l.s 			page 83
+ARM GAS  /tmp/ccdOtOWR.s 			page 83
 
 
  4415 05ee 63685363 		.ascii	"chSchGoSleepTimeoutS\000"
@@ -4952,34 +4952,34 @@ ARM GAS  /tmp/ccSnyb1l.s 			page 1
  4429      696D656F 
  4429      757400
  4430              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccSnyb1l.s 			page 84
+ARM GAS  /tmp/ccdOtOWR.s 			page 84
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chqueues.c
-     /tmp/ccSnyb1l.s:16     .text.qwait:0000000000000000 $t
-     /tmp/ccSnyb1l.s:23     .text.qwait:0000000000000000 qwait
-     /tmp/ccSnyb1l.s:76     .text.qwait:0000000000000024 $d
-     /tmp/ccSnyb1l.s:81     .text.chIQInit:0000000000000000 $t
-     /tmp/ccSnyb1l.s:89     .text.chIQInit:0000000000000000 chIQInit
-     /tmp/ccSnyb1l.s:134    .text.chIQResetI:0000000000000000 $t
-     /tmp/ccSnyb1l.s:142    .text.chIQResetI:0000000000000000 chIQResetI
-     /tmp/ccSnyb1l.s:200    .text.chIQPutI:0000000000000000 $t
-     /tmp/ccSnyb1l.s:208    .text.chIQPutI:0000000000000000 chIQPutI
-     /tmp/ccSnyb1l.s:307    .text.chIQGetTimeout:0000000000000000 $t
-     /tmp/ccSnyb1l.s:315    .text.chIQGetTimeout:0000000000000000 chIQGetTimeout
-     /tmp/ccSnyb1l.s:408    .text.chIQReadTimeout:0000000000000000 $t
-     /tmp/ccSnyb1l.s:416    .text.chIQReadTimeout:0000000000000000 chIQReadTimeout
-     /tmp/ccSnyb1l.s:546    .text.chOQInit:0000000000000000 $t
-     /tmp/ccSnyb1l.s:554    .text.chOQInit:0000000000000000 chOQInit
-     /tmp/ccSnyb1l.s:595    .text.chOQResetI:0000000000000000 $t
-     /tmp/ccSnyb1l.s:603    .text.chOQResetI:0000000000000000 chOQResetI
-     /tmp/ccSnyb1l.s:663    .text.chOQPutTimeout:0000000000000000 $t
-     /tmp/ccSnyb1l.s:671    .text.chOQPutTimeout:0000000000000000 chOQPutTimeout
-     /tmp/ccSnyb1l.s:780    .text.chOQGetI:0000000000000000 $t
-     /tmp/ccSnyb1l.s:788    .text.chOQGetI:0000000000000000 chOQGetI
-     /tmp/ccSnyb1l.s:876    .text.chOQWriteTimeout:0000000000000000 $t
-     /tmp/ccSnyb1l.s:884    .text.chOQWriteTimeout:0000000000000000 chOQWriteTimeout
+     /tmp/ccdOtOWR.s:16     .text.qwait:0000000000000000 $t
+     /tmp/ccdOtOWR.s:23     .text.qwait:0000000000000000 qwait
+     /tmp/ccdOtOWR.s:76     .text.qwait:0000000000000024 $d
+     /tmp/ccdOtOWR.s:81     .text.chIQInit:0000000000000000 $t
+     /tmp/ccdOtOWR.s:89     .text.chIQInit:0000000000000000 chIQInit
+     /tmp/ccdOtOWR.s:134    .text.chIQResetI:0000000000000000 $t
+     /tmp/ccdOtOWR.s:142    .text.chIQResetI:0000000000000000 chIQResetI
+     /tmp/ccdOtOWR.s:200    .text.chIQPutI:0000000000000000 $t
+     /tmp/ccdOtOWR.s:208    .text.chIQPutI:0000000000000000 chIQPutI
+     /tmp/ccdOtOWR.s:307    .text.chIQGetTimeout:0000000000000000 $t
+     /tmp/ccdOtOWR.s:315    .text.chIQGetTimeout:0000000000000000 chIQGetTimeout
+     /tmp/ccdOtOWR.s:408    .text.chIQReadTimeout:0000000000000000 $t
+     /tmp/ccdOtOWR.s:416    .text.chIQReadTimeout:0000000000000000 chIQReadTimeout
+     /tmp/ccdOtOWR.s:546    .text.chOQInit:0000000000000000 $t
+     /tmp/ccdOtOWR.s:554    .text.chOQInit:0000000000000000 chOQInit
+     /tmp/ccdOtOWR.s:595    .text.chOQResetI:0000000000000000 $t
+     /tmp/ccdOtOWR.s:603    .text.chOQResetI:0000000000000000 chOQResetI
+     /tmp/ccdOtOWR.s:663    .text.chOQPutTimeout:0000000000000000 $t
+     /tmp/ccdOtOWR.s:671    .text.chOQPutTimeout:0000000000000000 chOQPutTimeout
+     /tmp/ccdOtOWR.s:780    .text.chOQGetI:0000000000000000 $t
+     /tmp/ccdOtOWR.s:788    .text.chOQGetI:0000000000000000 chOQGetI
+     /tmp/ccdOtOWR.s:876    .text.chOQWriteTimeout:0000000000000000 $t
+     /tmp/ccdOtOWR.s:884    .text.chOQWriteTimeout:0000000000000000 chOQWriteTimeout
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

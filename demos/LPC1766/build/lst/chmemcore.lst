@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cc2rBQHw.s 			page 1
+ARM GAS  /tmp/ccSlfOK2.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
   55 0024 00000000 		.word	.LANCHOR1
   56              		.cfi_endproc
   57              	.LFE7:
-ARM GAS  /tmp/cc2rBQHw.s 			page 2
+ARM GAS  /tmp/ccSlfOK2.s 			page 2
 
 
   58              		.size	_core_init, .-_core_init
@@ -118,7 +118,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  112              	.LVL5:
  113              		.loc 1 112 0
  114 0022 0020     		movhi	r0, #0
-ARM GAS  /tmp/cc2rBQHw.s 			page 3
+ARM GAS  /tmp/ccSlfOK2.s 			page 3
 
 
  115              	.LVL6:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  169              	.LVL8:
  170              		.loc 1 111 0
  171 0010 891A     		subs	r1, r1, r2
-ARM GAS  /tmp/cc2rBQHw.s 			page 4
+ARM GAS  /tmp/ccSlfOK2.s 			page 4
 
 
  172 0012 8B42     		cmp	r3, r1
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  226              		.cfi_endproc
  227              	.LFE10:
  228              		.size	chCoreStatus, .-chCoreStatus
-ARM GAS  /tmp/cc2rBQHw.s 			page 5
+ARM GAS  /tmp/ccSlfOK2.s 			page 5
 
 
  229              		.section	.bss.endmem,"aw",%nobits
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  283 003a 94010000 		.4byte	.LASF0
  284 003e 04       		.uleb128 0x4
  285 003f 08       		.byte	0x8
-ARM GAS  /tmp/cc2rBQHw.s 			page 6
+ARM GAS  /tmp/ccSlfOK2.s 			page 6
 
 
  286 0040 05       		.byte	0x5
@@ -358,7 +358,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  340 00a9 AD000000 		.4byte	0xad
  341 00ad 04       		.uleb128 0x4
  342 00ae 08       		.byte	0x8
-ARM GAS  /tmp/cc2rBQHw.s 			page 7
+ARM GAS  /tmp/ccSlfOK2.s 			page 7
 
 
  343 00af 07       		.byte	0x7
@@ -418,7 +418,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  397 0124 29       		.byte	0x29
  398 0125 D5000000 		.4byte	0xd5
  399 0129 03       		.uleb128 0x3
-ARM GAS  /tmp/cc2rBQHw.s 			page 8
+ARM GAS  /tmp/ccSlfOK2.s 			page 8
 
 
  400 012a FB010000 		.4byte	.LASF27
@@ -478,7 +478,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  454 019c 5F       		.byte	0x5f
  455 019d 78020000 		.4byte	0x278
  456 01a1 10       		.byte	0x10
-ARM GAS  /tmp/cc2rBQHw.s 			page 9
+ARM GAS  /tmp/ccSlfOK2.s 			page 9
 
 
  457 01a2 07       		.uleb128 0x7
@@ -538,7 +538,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  511 020e 07       		.uleb128 0x7
  512 020f BF040000 		.4byte	.LASF44
  513 0213 07       		.byte	0x7
-ARM GAS  /tmp/cc2rBQHw.s 			page 10
+ARM GAS  /tmp/ccSlfOK2.s 			page 10
 
 
  514 0214 B8       		.byte	0xb8
@@ -598,7 +598,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  568 027a 4F010000 		.4byte	0x14f
  569 027e 03       		.uleb128 0x3
  570 027f 44030000 		.4byte	.LASF50
-ARM GAS  /tmp/cc2rBQHw.s 			page 11
+ARM GAS  /tmp/ccSlfOK2.s 			page 11
 
 
  571 0283 06       		.byte	0x6
@@ -658,7 +658,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  625 02ed A9020000 		.4byte	0x2a9
  626 02f1 08       		.byte	0x8
  627 02f2 0D       		.uleb128 0xd
-ARM GAS  /tmp/cc2rBQHw.s 			page 12
+ARM GAS  /tmp/ccSlfOK2.s 			page 12
 
 
  628 02f3 723700   		.ascii	"r7\000"
@@ -718,7 +718,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  682 0360 07       		.byte	0x7
  683 0361 09030000 		.4byte	.LASF56
  684 0365 03       		.uleb128 0x3
-ARM GAS  /tmp/cc2rBQHw.s 			page 13
+ARM GAS  /tmp/ccSlfOK2.s 			page 13
 
 
  685 0366 C4010000 		.4byte	.LASF57
@@ -778,7 +778,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  739 03d5 0A       		.uleb128 0xa
  740 03d6 04       		.byte	0x4
  741 03d7 81030000 		.4byte	0x381
-ARM GAS  /tmp/cc2rBQHw.s 			page 14
+ARM GAS  /tmp/ccSlfOK2.s 			page 14
 
 
  742 03db 09       		.uleb128 0x9
@@ -838,7 +838,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  796 0444 59       		.byte	0x59
  797 0445 1E010000 		.4byte	0x11e
  798 0449 08       		.byte	0x8
-ARM GAS  /tmp/cc2rBQHw.s 			page 15
+ARM GAS  /tmp/ccSlfOK2.s 			page 15
 
 
  799 044a 07       		.uleb128 0x7
@@ -898,7 +898,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  853 04b6 8B040000 		.4byte	.LASF78
  854 04ba 0B       		.byte	0xb
  855 04bb 2A       		.byte	0x2a
-ARM GAS  /tmp/cc2rBQHw.s 			page 16
+ARM GAS  /tmp/ccSlfOK2.s 			page 16
 
 
  856 04bc C2040000 		.4byte	0x4c2
@@ -958,7 +958,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  910 0528 07       		.uleb128 0x7
  911 0529 CD010000 		.4byte	.LASF84
  912 052d 0C       		.byte	0xc
-ARM GAS  /tmp/cc2rBQHw.s 			page 17
+ARM GAS  /tmp/ccSlfOK2.s 			page 17
 
 
  913 052e 26       		.byte	0x26
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  967 059a 2F       		.byte	0x2f
  968 059b B4000000 		.4byte	0xb4
  969 059f 0D       		.byte	0xd
-ARM GAS  /tmp/cc2rBQHw.s 			page 18
+ARM GAS  /tmp/ccSlfOK2.s 			page 18
 
 
  970 05a0 07       		.uleb128 0x7
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1024 060f 03       		.byte	0x3
  1025 0610 00       		.byte	0
  1026 0611 03       		.uleb128 0x3
-ARM GAS  /tmp/cc2rBQHw.s 			page 19
+ARM GAS  /tmp/ccSlfOK2.s 			page 19
 
 
  1027 0612 49010000 		.4byte	.LASF102
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1081 068a 69       		.byte	0x69
  1082 068b B4020000 		.4byte	0x2b4
  1083 068f 01       		.byte	0x1
-ARM GAS  /tmp/cc2rBQHw.s 			page 20
+ARM GAS  /tmp/ccSlfOK2.s 			page 20
 
 
  1084 0690 A9060000 		.4byte	0x6a9
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1138 070d 01       		.uleb128 0x1
  1139 070e 53       		.byte	0x53
  1140 070f 00       		.byte	0
-ARM GAS  /tmp/cc2rBQHw.s 			page 21
+ARM GAS  /tmp/ccSlfOK2.s 			page 21
 
 
  1141 0710 1F       		.uleb128 0x1f
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1195 078b 9F060000 		.4byte	0x69f
  1196 078f 01       		.uleb128 0x1
  1197 0790 52       		.byte	0x52
-ARM GAS  /tmp/cc2rBQHw.s 			page 22
+ARM GAS  /tmp/ccSlfOK2.s 			page 22
 
 
  1198 0791 00       		.byte	0
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1252 0032 03       		.uleb128 0x3
  1253 0033 0E       		.uleb128 0xe
  1254 0034 00       		.byte	0
-ARM GAS  /tmp/cc2rBQHw.s 			page 23
+ARM GAS  /tmp/ccSlfOK2.s 			page 23
 
 
  1255 0035 00       		.byte	0
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1309 006b 13       		.uleb128 0x13
  1310 006c 01       		.byte	0x1
  1311 006d 0B       		.uleb128 0xb
-ARM GAS  /tmp/cc2rBQHw.s 			page 24
+ARM GAS  /tmp/ccSlfOK2.s 			page 24
 
 
  1312 006e 0B       		.uleb128 0xb
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1366 00a4 00       		.byte	0
  1367 00a5 0E       		.uleb128 0xe
  1368 00a6 15       		.uleb128 0x15
-ARM GAS  /tmp/cc2rBQHw.s 			page 25
+ARM GAS  /tmp/ccSlfOK2.s 			page 25
 
 
  1369 00a7 01       		.byte	0x1
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1423 00dd 13       		.uleb128 0x13
  1424 00de 00       		.byte	0
  1425 00df 00       		.byte	0
-ARM GAS  /tmp/cc2rBQHw.s 			page 26
+ARM GAS  /tmp/ccSlfOK2.s 			page 26
 
 
  1426 00e0 13       		.uleb128 0x13
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1480 0116 13       		.uleb128 0x13
  1481 0117 11       		.uleb128 0x11
  1482 0118 01       		.uleb128 0x1
-ARM GAS  /tmp/cc2rBQHw.s 			page 27
+ARM GAS  /tmp/ccSlfOK2.s 			page 27
 
 
  1483 0119 12       		.uleb128 0x12
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1537 0150 00       		.byte	0
  1538 0151 1B       		.uleb128 0x1b
  1539 0152 2E       		.uleb128 0x2e
-ARM GAS  /tmp/cc2rBQHw.s 			page 28
+ARM GAS  /tmp/ccSlfOK2.s 			page 28
 
 
  1540 0153 01       		.byte	0x1
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1594 018a 03       		.uleb128 0x3
  1595 018b 08       		.uleb128 0x8
  1596 018c 3A       		.uleb128 0x3a
-ARM GAS  /tmp/cc2rBQHw.s 			page 29
+ARM GAS  /tmp/ccSlfOK2.s 			page 29
 
 
  1597 018d 0B       		.uleb128 0xb
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1651 01c3 3F       		.uleb128 0x3f
  1652 01c4 19       		.uleb128 0x19
  1653 01c5 03       		.uleb128 0x3
-ARM GAS  /tmp/cc2rBQHw.s 			page 30
+ARM GAS  /tmp/ccSlfOK2.s 			page 30
 
 
  1654 01c6 0E       		.uleb128 0xe
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1708 0019 00000000 		.4byte	0
  1709 001d 00000000 		.4byte	0
  1710              	.LLST1:
-ARM GAS  /tmp/cc2rBQHw.s 			page 31
+ARM GAS  /tmp/ccSlfOK2.s 			page 31
 
 
  1711 0021 08000000 		.4byte	.LVL1
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1765 0094 50       		.byte	0x50
  1766 0095 23       		.byte	0x23
  1767 0096 07       		.uleb128 0x7
-ARM GAS  /tmp/cc2rBQHw.s 			page 32
+ARM GAS  /tmp/ccSlfOK2.s 			page 32
 
 
  1768 0097 09       		.byte	0x9
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1811 0040 2D4C5043 		.ascii	"-LPC/demos/LPC1766\000"
  1811      2F64656D 
  1811      6F732F4C 
-ARM GAS  /tmp/cc2rBQHw.s 			page 33
+ARM GAS  /tmp/ccSlfOK2.s 			page 33
 
 
  1811      50433137 
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1838              	.LASF1:
  1839 00dd 6C6F6E67 		.ascii	"long long int\000"
  1839      206C6F6E 
-ARM GAS  /tmp/cc2rBQHw.s 			page 34
+ARM GAS  /tmp/ccSlfOK2.s 			page 34
 
 
  1839      6720696E 
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1865      00
  1866              	.LASF12:
  1867 0178 5F5F7569 		.ascii	"__uint32_t\000"
-ARM GAS  /tmp/cc2rBQHw.s 			page 35
+ARM GAS  /tmp/ccSlfOK2.s 			page 35
 
 
  1867      6E743332 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1894              	.LASF22:
  1895 0209 746D6F64 		.ascii	"tmode_t\000"
  1895      655F7400 
-ARM GAS  /tmp/cc2rBQHw.s 			page 36
+ARM GAS  /tmp/ccSlfOK2.s 			page 36
 
 
  1896              	.LASF51:
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1919      626C6500 
  1920              	.LASF89:
  1921 031e 63685F74 		.ascii	"ch_timesize\000"
-ARM GAS  /tmp/cc2rBQHw.s 			page 37
+ARM GAS  /tmp/ccSlfOK2.s 			page 37
 
 
  1921      696D6573 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1951      7200
  1952              	.LASF116:
  1953 03b4 5F636F72 		.ascii	"_core_init\000"
-ARM GAS  /tmp/cc2rBQHw.s 			page 38
+ARM GAS  /tmp/ccSlfOK2.s 			page 38
 
 
  1953      655F696E 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  1982              	.LASF91:
  1983 0445 63665F6F 		.ascii	"cf_off_prio\000"
  1983      66665F70 
-ARM GAS  /tmp/cc2rBQHw.s 			page 39
+ARM GAS  /tmp/ccSlfOK2.s 			page 39
 
 
  1983      72696F00 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  2013      61705F62 
  2013      6173655F 
  2013      5F00
-ARM GAS  /tmp/cc2rBQHw.s 			page 40
+ARM GAS  /tmp/ccSlfOK2.s 			page 40
 
 
  2014              	.LASF92:
@@ -2392,27 +2392,27 @@ ARM GAS  /tmp/cc2rBQHw.s 			page 1
  2043      6974696E 
  2043      6700
  2044              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/cc2rBQHw.s 			page 41
+ARM GAS  /tmp/ccSlfOK2.s 			page 41
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chmemcore.c
-     /tmp/cc2rBQHw.s:16     .text._core_init:0000000000000000 $t
-     /tmp/cc2rBQHw.s:24     .text._core_init:0000000000000000 _core_init
-     /tmp/cc2rBQHw.s:52     .text._core_init:0000000000000018 $d
-     /tmp/cc2rBQHw.s:60     .text.chCoreAlloc:0000000000000000 $t
-     /tmp/cc2rBQHw.s:68     .text.chCoreAlloc:0000000000000000 chCoreAlloc
-     /tmp/cc2rBQHw.s:136    .text.chCoreAlloc:0000000000000030 $d
-     /tmp/cc2rBQHw.s:142    .text.chCoreAllocI:0000000000000000 $t
-     /tmp/cc2rBQHw.s:150    .text.chCoreAllocI:0000000000000000 chCoreAllocI
-     /tmp/cc2rBQHw.s:192    .text.chCoreAllocI:0000000000000024 $d
-     /tmp/cc2rBQHw.s:198    .text.chCoreStatus:0000000000000000 $t
-     /tmp/cc2rBQHw.s:206    .text.chCoreStatus:0000000000000000 chCoreStatus
-     /tmp/cc2rBQHw.s:224    .text.chCoreStatus:000000000000000c $d
-     /tmp/cc2rBQHw.s:230    .bss.endmem:0000000000000000 $d
-     /tmp/cc2rBQHw.s:234    .bss.endmem:0000000000000000 endmem
-     /tmp/cc2rBQHw.s:237    .bss.nextmem:0000000000000000 $d
-     /tmp/cc2rBQHw.s:241    .bss.nextmem:0000000000000000 nextmem
+     /tmp/ccSlfOK2.s:16     .text._core_init:0000000000000000 $t
+     /tmp/ccSlfOK2.s:24     .text._core_init:0000000000000000 _core_init
+     /tmp/ccSlfOK2.s:52     .text._core_init:0000000000000018 $d
+     /tmp/ccSlfOK2.s:60     .text.chCoreAlloc:0000000000000000 $t
+     /tmp/ccSlfOK2.s:68     .text.chCoreAlloc:0000000000000000 chCoreAlloc
+     /tmp/ccSlfOK2.s:136    .text.chCoreAlloc:0000000000000030 $d
+     /tmp/ccSlfOK2.s:142    .text.chCoreAllocI:0000000000000000 $t
+     /tmp/ccSlfOK2.s:150    .text.chCoreAllocI:0000000000000000 chCoreAllocI
+     /tmp/ccSlfOK2.s:192    .text.chCoreAllocI:0000000000000024 $d
+     /tmp/ccSlfOK2.s:198    .text.chCoreStatus:0000000000000000 $t
+     /tmp/ccSlfOK2.s:206    .text.chCoreStatus:0000000000000000 chCoreStatus
+     /tmp/ccSlfOK2.s:224    .text.chCoreStatus:000000000000000c $d
+     /tmp/ccSlfOK2.s:230    .bss.endmem:0000000000000000 $d
+     /tmp/ccSlfOK2.s:234    .bss.endmem:0000000000000000 endmem
+     /tmp/ccSlfOK2.s:237    .bss.nextmem:0000000000000000 $d
+     /tmp/ccSlfOK2.s:241    .bss.nextmem:0000000000000000 nextmem
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

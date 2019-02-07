@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccsk0uvg.s 			page 1
+ARM GAS  /tmp/ccUAurUK.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
   55 001e 0021     		movs	r1, #0
   56              		.loc 1 73 0
   57 0020 BDE81040 		pop	{r4, lr}
-ARM GAS  /tmp/ccsk0uvg.s 			page 2
+ARM GAS  /tmp/ccUAurUK.s 			page 2
 
 
   58              		.cfi_restore 14
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  112 0012 8360     		str	r3, [r0, #8]
  113              		.loc 1 90 0
  114 0014 8910     		asrs	r1, r1, #2
-ARM GAS  /tmp/ccsk0uvg.s 			page 3
+ARM GAS  /tmp/ccUAurUK.s 			page 3
 
 
  115 0016 1C30     		adds	r0, r0, #28
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  169 0006 0E46     		mov	r6, r1
  170              	.LBB24:
  171              		.loc 1 118 0
-ARM GAS  /tmp/ccsk0uvg.s 			page 4
+ARM GAS  /tmp/ccUAurUK.s 			page 4
 
 
  172              		.syntax unified
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  226              	.LBE25:
  227              	.LBB29:
  228              		.loc 1 120 0
-ARM GAS  /tmp/ccsk0uvg.s 			page 5
+ARM GAS  /tmp/ccUAurUK.s 			page 5
 
 
  229 0038 0023     		movs	r3, #0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  283              		.loc 1 152 0
  284 0014 6168     		ldr	r1, [r4, #4]
  285              		.loc 1 151 0
-ARM GAS  /tmp/ccsk0uvg.s 			page 6
+ARM GAS  /tmp/ccUAurUK.s 			page 6
 
 
  286 0016 131D     		adds	r3, r2, #4
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  340 0002 436A     		ldr	r3, [r0, #36]
  341 0004 002B     		cmp	r3, #0
  342 0006 12DD     		ble	.L17
-ARM GAS  /tmp/ccsk0uvg.s 			page 7
+ARM GAS  /tmp/ccUAurUK.s 			page 7
 
 
  343              		.loc 1 182 0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  397              		@ frame_needed = 0, uses_anonymous_args = 0
  398              	.LVL33:
  399 0000 70B5     		push	{r4, r5, r6, lr}
-ARM GAS  /tmp/ccsk0uvg.s 			page 8
+ARM GAS  /tmp/ccUAurUK.s 			page 8
 
 
  400              		.cfi_def_cfa_offset 16
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  454              	.LBB44:
  455              	.LBB45:
  456              		.loc 1 244 0
-ARM GAS  /tmp/ccsk0uvg.s 			page 9
+ARM GAS  /tmp/ccUAurUK.s 			page 9
 
 
  457 0022 E368     		ldr	r3, [r4, #12]
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  511              		@ args = 0, pretend = 0, frame = 0
  512              		@ frame_needed = 0, uses_anonymous_args = 0
  513              	.LVL43:
-ARM GAS  /tmp/ccsk0uvg.s 			page 10
+ARM GAS  /tmp/ccUAurUK.s 			page 10
 
 
  514 0000 70B5     		push	{r4, r5, r6, lr}
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  568 0036 F2E7     		b	.L26
  569              	.LBE54:
  570              	.LBE55:
-ARM GAS  /tmp/ccsk0uvg.s 			page 11
+ARM GAS  /tmp/ccUAurUK.s 			page 11
 
 
  571              		.cfi_endproc
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  625              		.loc 1 279 0
  626 0026 0020     		movs	r0, #0
  627 0028 10BD     		pop	{r4, pc}
-ARM GAS  /tmp/ccsk0uvg.s 			page 12
+ARM GAS  /tmp/ccUAurUK.s 			page 12
 
 
  628              	.LVL55:
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  682 000c 1146     		mov	r1, r2
  683              	.LVL59:
  684 000e 1030     		adds	r0, r0, #16
-ARM GAS  /tmp/ccsk0uvg.s 			page 13
+ARM GAS  /tmp/ccUAurUK.s 			page 13
 
 
  685              	.LVL60:
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  739 0042 70BD     		pop	{r4, r5, r6, pc}
  740              		.cfi_endproc
  741              	.LFE15:
-ARM GAS  /tmp/ccsk0uvg.s 			page 14
+ARM GAS  /tmp/ccUAurUK.s 			page 14
 
 
  742              		.size	chMBFetch, .-chMBFetch
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  796 0022 3160     		str	r1, [r6]
  797              		.loc 1 340 0
  798 0024 04F11C00 		add	r0, r4, #28
-ARM GAS  /tmp/ccsk0uvg.s 			page 15
+ARM GAS  /tmp/ccUAurUK.s 			page 15
 
 
  799              	.LVL71:
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  853 0012 0433     		adds	r3, r3, #4
  854              		.loc 1 369 0
  855 0014 9342     		cmp	r3, r2
-ARM GAS  /tmp/ccsk0uvg.s 			page 16
+ARM GAS  /tmp/ccUAurUK.s 			page 16
 
 
  856              		.loc 1 368 0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  910 0010 0C       		.byte	0xc
  911 0011 B5010000 		.4byte	.LASF134
  912 0015 0D000000 		.4byte	.LASF135
-ARM GAS  /tmp/ccsk0uvg.s 			page 17
+ARM GAS  /tmp/ccUAurUK.s 			page 17
 
 
  913 0019 A8000000 		.4byte	.Ldebug_ranges0+0xa8
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  967 0085 04       		.uleb128 0x4
  968 0086 E5010000 		.4byte	.LASF11
  969 008a 02       		.byte	0x2
-ARM GAS  /tmp/ccsk0uvg.s 			page 18
+ARM GAS  /tmp/ccUAurUK.s 			page 18
 
 
  970 008b 41       		.byte	0x41
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1024 00fd 04       		.uleb128 0x4
  1025 00fe FE030000 		.4byte	.LASF23
  1026 0102 04       		.byte	0x4
-ARM GAS  /tmp/ccsk0uvg.s 			page 19
+ARM GAS  /tmp/ccUAurUK.s 			page 19
 
 
  1027 0103 27       		.byte	0x27
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1081 0178 5A       		.byte	0x5a
  1082 0179 78020000 		.4byte	0x278
  1083 017d 04       		.byte	0x4
-ARM GAS  /tmp/ccsk0uvg.s 			page 20
+ARM GAS  /tmp/ccUAurUK.s 			page 20
 
 
  1084 017e 07       		.uleb128 0x7
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1138 01ea 07       		.uleb128 0x7
  1139 01eb 47050000 		.4byte	.LASF42
  1140 01ef 06       		.byte	0x6
-ARM GAS  /tmp/ccsk0uvg.s 			page 21
+ARM GAS  /tmp/ccUAurUK.s 			page 21
 
 
  1141 01f0 88       		.byte	0x88
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1195 0259 05       		.byte	0x5
  1196 025a 5A       		.byte	0x5a
  1197 025b 78020000 		.4byte	0x278
-ARM GAS  /tmp/ccsk0uvg.s 			page 22
+ARM GAS  /tmp/ccUAurUK.s 			page 22
 
 
  1198 025f 07       		.uleb128 0x7
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1252 02c8 0501     		.2byte	0x105
  1253 02ca 3D030000 		.4byte	0x33d
  1254 02ce 0D       		.uleb128 0xd
-ARM GAS  /tmp/ccsk0uvg.s 			page 23
+ARM GAS  /tmp/ccUAurUK.s 			page 23
 
 
  1255 02cf 723400   		.ascii	"r4\000"
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1309 033d 0C       		.uleb128 0xc
  1310 033e 60020000 		.4byte	.LASF55
  1311 0342 04       		.byte	0x4
-ARM GAS  /tmp/ccsk0uvg.s 			page 24
+ARM GAS  /tmp/ccUAurUK.s 			page 24
 
 
  1312 0343 07       		.byte	0x7
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1366 03b1 E9020000 		.4byte	.LASF61
  1367 03b5 08       		.byte	0x8
  1368 03b6 62       		.byte	0x62
-ARM GAS  /tmp/ccsk0uvg.s 			page 25
+ARM GAS  /tmp/ccUAurUK.s 			page 25
 
 
  1369 03b7 34010000 		.4byte	0x134
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1423 0420 94000000 		.4byte	.LASF73
  1424 0424 08       		.byte	0x8
  1425 0425 EE       		.byte	0xee
-ARM GAS  /tmp/ccsk0uvg.s 			page 26
+ARM GAS  /tmp/ccUAurUK.s 			page 26
 
 
  1426 0426 14040000 		.4byte	0x414
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1480 0492 7F050000 		.4byte	.LASF75
  1481 0496 0C       		.byte	0xc
  1482 0497 0A       		.byte	0xa
-ARM GAS  /tmp/ccsk0uvg.s 			page 27
+ARM GAS  /tmp/ccUAurUK.s 			page 27
 
 
  1483 0498 25       		.byte	0x25
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1537 0504 28       		.byte	0x28
  1538 0505 0C       		.byte	0xc
  1539 0506 2C       		.byte	0x2c
-ARM GAS  /tmp/ccsk0uvg.s 			page 28
+ARM GAS  /tmp/ccUAurUK.s 			page 28
 
 
  1540 0507 54050000 		.4byte	0x554
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1594 0573 96       		.byte	0x96
  1595 0574 1E010000 		.4byte	0x11e
  1596 0578 12       		.uleb128 0x12
-ARM GAS  /tmp/ccsk0uvg.s 			page 29
+ARM GAS  /tmp/ccUAurUK.s 			page 29
 
 
  1597 0579 E1000000 		.4byte	.LASF90
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1651 05e5 B4000000 		.4byte	0xb4
  1652 05e9 06       		.byte	0x6
  1653 05ea 07       		.uleb128 0x7
-ARM GAS  /tmp/ccsk0uvg.s 			page 30
+ARM GAS  /tmp/ccUAurUK.s 			page 30
 
 
  1654 05eb 06040000 		.4byte	.LASF98
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1708 0657 12010000 		.4byte	.LASF107
  1709 065b 0D       		.byte	0xd
  1710 065c 34       		.byte	0x34
-ARM GAS  /tmp/ccsk0uvg.s 			page 31
+ARM GAS  /tmp/ccUAurUK.s 			page 31
 
 
  1711 065d A9000000 		.4byte	0xa9
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1765 06cf 9D010000 		.4byte	.LASF114
  1766 06d3 0E       		.byte	0xe
  1767 06d4 82       		.byte	0x82
-ARM GAS  /tmp/ccsk0uvg.s 			page 32
+ARM GAS  /tmp/ccUAurUK.s 			page 32
 
 
  1768 06d5 BE060000 		.4byte	0x6be
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1822 074f 01       		.byte	0x1
  1823 0750 4901     		.2byte	0x149
  1824 0752 54050000 		.4byte	0x554
-ARM GAS  /tmp/ccsk0uvg.s 			page 33
+ARM GAS  /tmp/ccUAurUK.s 			page 33
 
 
  1825 0756 1D       		.uleb128 0x1d
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1879 07dc 00       		.byte	0
  1880 07dd 21       		.uleb128 0x21
  1881 07de 3A000000 		.4byte	.LBB68
-ARM GAS  /tmp/ccsk0uvg.s 			page 34
+ARM GAS  /tmp/ccUAurUK.s 			page 34
 
 
  1882 07e2 06000000 		.4byte	.LBE68-.LBB68
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1936 087a 01       		.uleb128 0x1
  1937 087b 50       		.byte	0x50
  1938 087c 02       		.uleb128 0x2
-ARM GAS  /tmp/ccsk0uvg.s 			page 35
+ARM GAS  /tmp/ccUAurUK.s 			page 35
 
 
  1939 087d 74       		.byte	0x74
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  1993 08e9 01       		.uleb128 0x1
  1994 08ea 50       		.byte	0x50
  1995 08eb 05       		.uleb128 0x5
-ARM GAS  /tmp/ccsk0uvg.s 			page 36
+ARM GAS  /tmp/ccUAurUK.s 			page 36
 
 
  1996 08ec F3       		.byte	0xf3
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2050 095e D0       		.byte	0xd0
  2051 095f 1E010000 		.4byte	0x11e
  2052 0963 18020000 		.4byte	.LLST24
-ARM GAS  /tmp/ccsk0uvg.s 			page 37
+ARM GAS  /tmp/ccUAurUK.s 			page 37
 
 
  2053 0967 2F       		.uleb128 0x2f
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2107 09e8 22000000 		.4byte	.LBB44
  2108 09ec 20000000 		.4byte	.LBE44-.LBB44
  2109 09f0 390A0000 		.4byte	0xa39
-ARM GAS  /tmp/ccsk0uvg.s 			page 38
+ARM GAS  /tmp/ccUAurUK.s 			page 38
 
 
  2110 09f4 33       		.uleb128 0x33
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2164 0a51 00       		.byte	0
  2165 0a52 00       		.byte	0
  2166 0a53 2D       		.uleb128 0x2d
-ARM GAS  /tmp/ccsk0uvg.s 			page 39
+ARM GAS  /tmp/ccUAurUK.s 			page 39
 
 
  2167 0a54 8A000000 		.4byte	.LASF123
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2221 0ac9 01       		.byte	0x1
  2222 0aca 8F       		.byte	0x8f
  2223 0acb 34010000 		.4byte	0x134
-ARM GAS  /tmp/ccsk0uvg.s 			page 40
+ARM GAS  /tmp/ccUAurUK.s 			page 40
 
 
  2224 0acf 2C       		.uleb128 0x2c
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2278 0b50 30       		.uleb128 0x30
  2279 0b51 746D7000 		.ascii	"tmp\000"
  2280 0b55 01       		.byte	0x1
-ARM GAS  /tmp/ccsk0uvg.s 			page 41
+ARM GAS  /tmp/ccUAurUK.s 			page 41
 
 
  2281 0b56 78       		.byte	0x78
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2335 0be3 00       		.byte	0
  2336 0be4 28       		.uleb128 0x28
  2337 0be5 38000000 		.4byte	.LVL19
-ARM GAS  /tmp/ccsk0uvg.s 			page 42
+ARM GAS  /tmp/ccUAurUK.s 			page 42
 
 
  2338 0be9 F90E0000 		.4byte	0xef9
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2392 0c52 746D7000 		.ascii	"tmp\000"
  2393 0c56 01       		.byte	0x1
  2394 0c57 5D       		.byte	0x5d
-ARM GAS  /tmp/ccsk0uvg.s 			page 43
+ARM GAS  /tmp/ccUAurUK.s 			page 43
 
 
  2395 0c58 CA000000 		.4byte	0xca
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2449 0cc1 54050000 		.4byte	0x554
  2450 0cc5 DF040000 		.4byte	.LLST1
  2451 0cc9 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccsk0uvg.s 			page 44
+ARM GAS  /tmp/ccUAurUK.s 			page 44
 
 
  2452 0cca 6E00     		.ascii	"n\000"
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2506 0d2b 4A050000 		.4byte	.LLST15
  2507 0d2f 23       		.uleb128 0x23
  2508 0d30 C40A0000 		.4byte	0xac4
-ARM GAS  /tmp/ccsk0uvg.s 			page 45
+ARM GAS  /tmp/ccUAurUK.s 			page 45
 
 
  2509 0d34 68050000 		.4byte	.LLST16
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2563 0dac 00       		.byte	0
  2564 0dad 00       		.byte	0
  2565 0dae 37       		.uleb128 0x37
-ARM GAS  /tmp/ccsk0uvg.s 			page 46
+ARM GAS  /tmp/ccUAurUK.s 			page 46
 
 
  2566 0daf F3080000 		.4byte	0x8f3
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2620 0e3c 01       		.uleb128 0x1
  2621 0e3d 50       		.byte	0x50
  2622 0e3e 02       		.uleb128 0x2
-ARM GAS  /tmp/ccsk0uvg.s 			page 47
+ARM GAS  /tmp/ccUAurUK.s 			page 47
 
 
  2623 0e3f 74       		.byte	0x74
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2677 0ec6 50       		.byte	0x50
  2678 0ec7 02       		.uleb128 0x2
  2679 0ec8 74       		.byte	0x74
-ARM GAS  /tmp/ccsk0uvg.s 			page 48
+ARM GAS  /tmp/ccUAurUK.s 			page 48
 
 
  2680 0ec9 1C       		.sleb128 28
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2734 0001 11       		.uleb128 0x11
  2735 0002 01       		.byte	0x1
  2736 0003 25       		.uleb128 0x25
-ARM GAS  /tmp/ccsk0uvg.s 			page 49
+ARM GAS  /tmp/ccUAurUK.s 			page 49
 
 
  2737 0004 0E       		.uleb128 0xe
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2791 003a 13       		.uleb128 0x13
  2792 003b 00       		.byte	0
  2793 003c 00       		.byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 50
+ARM GAS  /tmp/ccUAurUK.s 			page 50
 
 
  2794 003d 06       		.uleb128 0x6
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2848 0073 01       		.uleb128 0x1
  2849 0074 13       		.uleb128 0x13
  2850 0075 00       		.byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 51
+ARM GAS  /tmp/ccUAurUK.s 			page 51
 
 
  2851 0076 00       		.byte	0
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2905 00ac 00       		.byte	0
  2906 00ad 00       		.byte	0
  2907 00ae 0F       		.uleb128 0xf
-ARM GAS  /tmp/ccsk0uvg.s 			page 52
+ARM GAS  /tmp/ccUAurUK.s 			page 52
 
 
  2908 00af 05       		.uleb128 0x5
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  2962 00e5 00       		.byte	0
  2963 00e6 00       		.byte	0
  2964 00e7 14       		.uleb128 0x14
-ARM GAS  /tmp/ccsk0uvg.s 			page 53
+ARM GAS  /tmp/ccUAurUK.s 			page 53
 
 
  2965 00e8 01       		.uleb128 0x1
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3019 011f 13       		.uleb128 0x13
  3020 0120 02       		.uleb128 0x2
  3021 0121 17       		.uleb128 0x17
-ARM GAS  /tmp/ccsk0uvg.s 			page 54
+ARM GAS  /tmp/ccUAurUK.s 			page 54
 
 
  3022 0122 00       		.byte	0
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3076 015d 00       		.byte	0
  3077 015e 00       		.byte	0
  3078 015f 1C       		.uleb128 0x1c
-ARM GAS  /tmp/ccsk0uvg.s 			page 55
+ARM GAS  /tmp/ccUAurUK.s 			page 55
 
 
  3079 0160 05       		.uleb128 0x5
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3133 0196 3B       		.uleb128 0x3b
  3134 0197 05       		.uleb128 0x5
  3135 0198 49       		.uleb128 0x49
-ARM GAS  /tmp/ccsk0uvg.s 			page 56
+ARM GAS  /tmp/ccUAurUK.s 			page 56
 
 
  3136 0199 13       		.uleb128 0x13
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3190 01cf 02       		.uleb128 0x2
  3191 01d0 17       		.uleb128 0x17
  3192 01d1 00       		.byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 57
+ARM GAS  /tmp/ccUAurUK.s 			page 57
 
 
  3193 01d2 00       		.byte	0
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3247 020c 3A       		.uleb128 0x3a
  3248 020d 0B       		.uleb128 0xb
  3249 020e 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccsk0uvg.s 			page 58
+ARM GAS  /tmp/ccUAurUK.s 			page 58
 
 
  3250 020f 0B       		.uleb128 0xb
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3304 0246 01       		.uleb128 0x1
  3305 0247 13       		.uleb128 0x13
  3306 0248 00       		.byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 59
+ARM GAS  /tmp/ccUAurUK.s 			page 59
 
 
  3307 0249 00       		.byte	0
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3361 027f 17       		.uleb128 0x17
  3362 0280 58       		.uleb128 0x58
  3363 0281 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccsk0uvg.s 			page 60
+ARM GAS  /tmp/ccUAurUK.s 			page 60
 
 
  3364 0282 59       		.uleb128 0x59
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3418 02b8 9742     		.uleb128 0x2117
  3419 02ba 19       		.uleb128 0x19
  3420 02bb 01       		.uleb128 0x1
-ARM GAS  /tmp/ccsk0uvg.s 			page 61
+ARM GAS  /tmp/ccUAurUK.s 			page 61
 
 
  3421 02bc 13       		.uleb128 0x13
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3475 0008 0100     		.2byte	0x1
  3476 000a 50       		.byte	0x50
  3477 000b 22000000 		.4byte	.LVL75
-ARM GAS  /tmp/ccsk0uvg.s 			page 62
+ARM GAS  /tmp/ccUAurUK.s 			page 62
 
 
  3478 000f 2B000000 		.4byte	.LVL76-1
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3532              	.LLST40:
  3533 0091 00000000 		.4byte	.LVL57
  3534 0095 0E000000 		.4byte	.LVL59
-ARM GAS  /tmp/ccsk0uvg.s 			page 63
+ARM GAS  /tmp/ccUAurUK.s 			page 63
 
 
  3535 0099 0100     		.2byte	0x1
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3589 0122 0100     		.2byte	0x1
  3590 0124 54       		.byte	0x54
  3591 0125 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 64
+ARM GAS  /tmp/ccUAurUK.s 			page 64
 
 
  3592 0129 00000000 		.4byte	0
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3646 01ad 2A000000 		.4byte	.LVL55
  3647 01b1 2E000000 		.4byte	.LVL56
  3648 01b5 0100     		.2byte	0x1
-ARM GAS  /tmp/ccsk0uvg.s 			page 65
+ARM GAS  /tmp/ccUAurUK.s 			page 65
 
 
  3649 01b7 50       		.byte	0x50
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3703 0240 52       		.byte	0x52
  3704 0241 13000000 		.4byte	.LVL37-1
  3705 0245 4C000000 		.4byte	.LFE12
-ARM GAS  /tmp/ccsk0uvg.s 			page 66
+ARM GAS  /tmp/ccUAurUK.s 			page 66
 
 
  3706 0249 0400     		.2byte	0x4
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3760 02cd 0100     		.2byte	0x1
  3761 02cf 54       		.byte	0x54
  3762 02d0 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 67
+ARM GAS  /tmp/ccUAurUK.s 			page 67
 
 
  3763 02d4 00000000 		.4byte	0
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3817 035b 0400     		.2byte	0x4
  3818 035d F3       		.byte	0xf3
  3819 035e 01       		.uleb128 0x1
-ARM GAS  /tmp/ccsk0uvg.s 			page 68
+ARM GAS  /tmp/ccUAurUK.s 			page 68
 
 
  3820 035f 51       		.byte	0x51
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3874 03e8 52       		.byte	0x52
  3875 03e9 9F       		.byte	0x9f
  3876 03ea 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 69
+ARM GAS  /tmp/ccUAurUK.s 			page 69
 
 
  3877 03ee 00000000 		.4byte	0
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3931 047d 0100     		.2byte	0x1
  3932 047f 54       		.byte	0x54
  3933 0480 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 70
+ARM GAS  /tmp/ccUAurUK.s 			page 70
 
 
  3934 0484 00000000 		.4byte	0
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  3988              	.LLST2:
  3989 050b 00000000 		.4byte	.LVL0
  3990 050f 19000000 		.4byte	.LVL3-1
-ARM GAS  /tmp/ccsk0uvg.s 			page 71
+ARM GAS  /tmp/ccUAurUK.s 			page 71
 
 
  3991 0513 0100     		.2byte	0x1
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4045 059c 0100     		.2byte	0x1
  4046 059e 55       		.byte	0x55
  4047 059f 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 72
+ARM GAS  /tmp/ccUAurUK.s 			page 72
 
 
  4048 05a3 00000000 		.4byte	0
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4102 0632 0400     		.2byte	0x4
  4103 0634 F3       		.byte	0xf3
  4104 0635 01       		.uleb128 0x1
-ARM GAS  /tmp/ccsk0uvg.s 			page 73
+ARM GAS  /tmp/ccUAurUK.s 			page 73
 
 
  4105 0636 52       		.byte	0x52
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4159 06be 0100     		.2byte	0x1
  4160 06c0 54       		.byte	0x54
  4161 06c1 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 74
+ARM GAS  /tmp/ccUAurUK.s 			page 74
 
 
  4162 06c5 00000000 		.4byte	0
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4216 0750 52       		.byte	0x52
  4217 0751 9F       		.byte	0x9f
  4218 0752 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 75
+ARM GAS  /tmp/ccUAurUK.s 			page 75
 
 
  4219 0756 00000000 		.4byte	0
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4273 0014 00000000 		.4byte	0
  4274 0018 02000000 		.4byte	.LBB23
  4275 001c 04000000 		.4byte	.LBE23
-ARM GAS  /tmp/ccsk0uvg.s 			page 76
+ARM GAS  /tmp/ccUAurUK.s 			page 76
 
 
  4276 0020 08000000 		.4byte	.LBB24
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4330 00f8 00000000 		.4byte	.LFB17
  4331 00fc 36000000 		.4byte	.LFE17
  4332 0100 00000000 		.4byte	0
-ARM GAS  /tmp/ccsk0uvg.s 			page 77
+ARM GAS  /tmp/ccUAurUK.s 			page 77
 
 
  4333 0104 00000000 		.4byte	0
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4358              	.LASF124:
  4359 009b 63684D42 		.ascii	"chMBPostS\000"
  4359      506F7374 
-ARM GAS  /tmp/ccsk0uvg.s 			page 78
+ARM GAS  /tmp/ccUAurUK.s 			page 78
 
 
  4359      5300
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4384              	.LASF106:
  4385 0139 63665F6F 		.ascii	"cf_off_stklimit\000"
  4385      66665F73 
-ARM GAS  /tmp/ccsk0uvg.s 			page 79
+ARM GAS  /tmp/ccUAurUK.s 			page 79
 
 
  4385      746B6C69 
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4411      756C6553 
  4411      00
  4412              	.LASF11:
-ARM GAS  /tmp/ccsk0uvg.s 			page 80
+ARM GAS  /tmp/ccUAurUK.s 			page 80
 
 
  4413 01e5 5F5F7569 		.ascii	"__uint32_t\000"
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4439      65642069 
  4439      6E7400
  4440              	.LASF117:
-ARM GAS  /tmp/ccsk0uvg.s 			page 81
+ARM GAS  /tmp/ccUAurUK.s 			page 81
 
 
  4441 027b 63684D42 		.ascii	"chMBFetchI\000"
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4468      202D6767 
  4469 0357 756E6374 		.ascii	"unction-sections -fdata-sections -fno-common\000"
  4469      696F6E2D 
-ARM GAS  /tmp/ccsk0uvg.s 			page 82
+ARM GAS  /tmp/ccUAurUK.s 			page 82
 
 
  4469      73656374 
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4498              	.LASF98:
  4499 0406 63685F70 		.ascii	"ch_ptrsize\000"
  4499      74727369 
-ARM GAS  /tmp/ccsk0uvg.s 			page 83
+ARM GAS  /tmp/ccUAurUK.s 			page 83
 
 
  4499      7A6500
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4531 0496 63665F6F 		.ascii	"cf_off_preempt\000"
  4531      66665F70 
  4531      7265656D 
-ARM GAS  /tmp/ccsk0uvg.s 			page 84
+ARM GAS  /tmp/ccUAurUK.s 			page 84
 
 
  4531      707400
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4559      696D655F 
  4559      7400
  4560              	.LASF48:
-ARM GAS  /tmp/ccsk0uvg.s 			page 85
+ARM GAS  /tmp/ccUAurUK.s 			page 85
 
 
  4561 0532 705F7265 		.ascii	"p_realprio\000"
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4589      65744900 
  4590              	.LASF74:
  4591 05c3 726C6973 		.ascii	"rlist\000"
-ARM GAS  /tmp/ccsk0uvg.s 			page 86
+ARM GAS  /tmp/ccUAurUK.s 			page 86
 
 
  4591      7400
@@ -5137,33 +5137,33 @@ ARM GAS  /tmp/ccsk0uvg.s 			page 1
  4611      6D496E69 
  4611      7400
  4612              		.ident	"GCC: (15:6.3.1+svn253039-1build1) 6.3.1 20170620"
-ARM GAS  /tmp/ccsk0uvg.s 			page 87
+ARM GAS  /tmp/ccUAurUK.s 			page 87
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chmboxes.c
-     /tmp/ccsk0uvg.s:16     .text.chMBInit:0000000000000000 $t
-     /tmp/ccsk0uvg.s:24     .text.chMBInit:0000000000000000 chMBInit
-     /tmp/ccsk0uvg.s:69     .text.chMBReset:0000000000000000 $t
-     /tmp/ccsk0uvg.s:77     .text.chMBReset:0000000000000000 chMBReset
-     /tmp/ccsk0uvg.s:142    .text.chMBPost:0000000000000000 $t
-     /tmp/ccsk0uvg.s:150    .text.chMBPost:0000000000000000 chMBPost
-     /tmp/ccsk0uvg.s:244    .text.chMBPostS:0000000000000000 $t
-     /tmp/ccsk0uvg.s:252    .text.chMBPostS:0000000000000000 chMBPostS
-     /tmp/ccsk0uvg.s:318    .text.chMBPostI:0000000000000000 $t
-     /tmp/ccsk0uvg.s:326    .text.chMBPostI:0000000000000000 chMBPostI
-     /tmp/ccsk0uvg.s:384    .text.chMBPostAhead:0000000000000000 $t
-     /tmp/ccsk0uvg.s:392    .text.chMBPostAhead:0000000000000000 chMBPostAhead
-     /tmp/ccsk0uvg.s:499    .text.chMBPostAheadS:0000000000000000 $t
-     /tmp/ccsk0uvg.s:507    .text.chMBPostAheadS:0000000000000000 chMBPostAheadS
-     /tmp/ccsk0uvg.s:575    .text.chMBPostAheadI:0000000000000000 $t
-     /tmp/ccsk0uvg.s:583    .text.chMBPostAheadI:0000000000000000 chMBPostAheadI
-     /tmp/ccsk0uvg.s:641    .text.chMBFetch:0000000000000000 $t
-     /tmp/ccsk0uvg.s:649    .text.chMBFetch:0000000000000000 chMBFetch
-     /tmp/ccsk0uvg.s:744    .text.chMBFetchS:0000000000000000 $t
-     /tmp/ccsk0uvg.s:752    .text.chMBFetchS:0000000000000000 chMBFetchS
-     /tmp/ccsk0uvg.s:819    .text.chMBFetchI:0000000000000000 $t
-     /tmp/ccsk0uvg.s:827    .text.chMBFetchI:0000000000000000 chMBFetchI
+     /tmp/ccUAurUK.s:16     .text.chMBInit:0000000000000000 $t
+     /tmp/ccUAurUK.s:24     .text.chMBInit:0000000000000000 chMBInit
+     /tmp/ccUAurUK.s:69     .text.chMBReset:0000000000000000 $t
+     /tmp/ccUAurUK.s:77     .text.chMBReset:0000000000000000 chMBReset
+     /tmp/ccUAurUK.s:142    .text.chMBPost:0000000000000000 $t
+     /tmp/ccUAurUK.s:150    .text.chMBPost:0000000000000000 chMBPost
+     /tmp/ccUAurUK.s:244    .text.chMBPostS:0000000000000000 $t
+     /tmp/ccUAurUK.s:252    .text.chMBPostS:0000000000000000 chMBPostS
+     /tmp/ccUAurUK.s:318    .text.chMBPostI:0000000000000000 $t
+     /tmp/ccUAurUK.s:326    .text.chMBPostI:0000000000000000 chMBPostI
+     /tmp/ccUAurUK.s:384    .text.chMBPostAhead:0000000000000000 $t
+     /tmp/ccUAurUK.s:392    .text.chMBPostAhead:0000000000000000 chMBPostAhead
+     /tmp/ccUAurUK.s:499    .text.chMBPostAheadS:0000000000000000 $t
+     /tmp/ccUAurUK.s:507    .text.chMBPostAheadS:0000000000000000 chMBPostAheadS
+     /tmp/ccUAurUK.s:575    .text.chMBPostAheadI:0000000000000000 $t
+     /tmp/ccUAurUK.s:583    .text.chMBPostAheadI:0000000000000000 chMBPostAheadI
+     /tmp/ccUAurUK.s:641    .text.chMBFetch:0000000000000000 $t
+     /tmp/ccUAurUK.s:649    .text.chMBFetch:0000000000000000 chMBFetch
+     /tmp/ccUAurUK.s:744    .text.chMBFetchS:0000000000000000 $t
+     /tmp/ccUAurUK.s:752    .text.chMBFetchS:0000000000000000 chMBFetchS
+     /tmp/ccUAurUK.s:819    .text.chMBFetchI:0000000000000000 $t
+     /tmp/ccUAurUK.s:827    .text.chMBFetchI:0000000000000000 chMBFetchI
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

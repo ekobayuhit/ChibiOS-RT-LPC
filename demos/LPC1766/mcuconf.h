@@ -87,7 +87,7 @@
  * SPI driver system settings.
  */
 #define LPC17xx_SPI_USE_SSP0                TRUE
-#define LPC17xx_SPI_USE_SSP1                FALSE
+#define LPC17xx_SPI_USE_SSP1                TRUE
 #define LPC17xx_SPI_SSP0CLKDIV              1
 #define LPC17xx_SPI_SSP1CLKDIV              1
 #define LPC17xx_SPI_SSP0_IRQ_PRIORITY       5
